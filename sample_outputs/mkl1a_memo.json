@@ -1,0 +1,954 @@
+{
+  "doc_ids": [
+    "mkl1a"
+  ],
+  "model": "llama-3.3-70b-versatile",
+  "version": 1,
+  "patterns_applied": [],
+  "sections": [
+    {
+      "title": "Summary",
+      "raw_text": "The investigation into the assassination of Martin Luther King was comprehensive and thorough [1, pp.17-18]. A task force was established to review the FBI's investigation, examining the character and completeness of the murder investigation [1, pp.17-18]. The review team examined files from various FBI field offices, including Memphis, Atlanta, and Los Angeles, and scanned pertinent newspaper clippings [5, pp.19-21]. The task force reviewed over 200,000 entries, many with multiple pages [5, pp.19-21]. Excisions were made to protect privacy rights, sensitive FBI sources and methods, and classified material, and changes were made to correct factual errors [2, pp.5-7], [3, pp.4-6]. No decision has been made on whether the report will be released to the public [2, pp.5-7], [3, pp.4-6]. The Department has not closed the Martin Luther King file, and numerous allegations of possible involvement of co-conspirators are being investigated [4, pp.14-15]. As of the current point in the review, nothing has been found to give a different emphasis or new clues to the question of involvement in the crime [4, pp.14-15]. There is no evidence of electronic surveillance of Dr. King in Memphis, but FBI agents did observe sanitation worker's strike activities for intelligence purposes [6, pp.32-34].",
+      "claims": [
+        {
+          "statement": "The investigation into the assassination of Martin Luther King was comprehensive and thorough [1, pp.17-18].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c13",
+              "doc_id": "mkl1a",
+              "text": ";s investigation was ccnprehensive, thorough\nan professicnal\" Qixrphy n:elm&#39;randum of March 31, 1976. p. 6! .i\nIt was determined therefore to begin the task force&#39;s study\nwith a complete review of the files on the FBI&#39;s investigation\nof the assassination. It was the consensus of the review\nteam that by approaching the whole task by \u0001rst examining\nthe character md carpleteness of the uzurder investigation\n-_ 4-.__._... ___.&#39;l.1 I... __.I- \u00a2._ ..1__ e._.e______ J-v___-_92l_ _ ___A __Bl E-BWGL GI-Ll-LLL UH HHUB LU I-HE H-CCUITIBY uazerai S IILQSG-.CI&#39;1\nas to the Bureau&#39;s performance in that regard and also m\nanswer could be indicated to his question going to the Bureau&#39;s\npossible responsibility, if any, direct or indirect, for\nDr. King\u0018: death.\nAfter the examination of the FBI&#39;s investigation of\nthe uurder of Dr. King, the review team proceeded to go\n-3-\n\n: - 92\nback and complete the ir.qui..\"y into the Bureau&#39;s preassassination relationship with Dr. King. Necessarily\nincluded again in this second stage of our review was\nthe oonsideration of whether the FBI was in mfway\ninplicated in the sander directly or indirectly.\nIhe task force rade a particular point of looking\nat all the material in the FBI headquarters and \u0001eld\noffice files on the Assassination Immstigation, the so11 A \"M &#39;:.....= .e.. ...1:\u0018k_in File\u0018  being en eeronym i\"er l\u00195._l.r-ier\nof King! ll; the Fartin Luther King Security File Z]; the\nCcminfil-SCZLC File  Ca:&#39;\u0001,n.fi1 being en acrcmym for Ccxzrrunist\ninfiltration; S.C.L.C., the initials for the Southern Christian\n-1",
+              "start_page": 17,
+              "end_page": 18,
+              "score": 0.3273
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.2812
+            },
+            {
+              "chunk_id": "mkl1a_c10",
+              "doc_id": "mkl1a",
+              "text": "to the assassination my waderstanding is t:hat the Department has nevuclosed the Martin luther King file and\nthat nunerous allegations of the possible\ninvolvement of co-conspirators are promptly\ninvestigated. The thrust of the review which\nI requested, however, was to determine\nwhether: new look at what was done bythe\nBureau in investigating the assassinatim\nor in the relationship between the Bmreau.\n-5-\n\nQ\n0\ni\nand Dr. King Ili\u0002lt give a ctiffermt\nemphasis ornewclues inmywayto &#39;\nthe qeestim of invol92\u00bbm...=-at m thet\ncrime. At this point in the review,\nas I reed the memrands, nothing has\n%d up relevant m this latter\npo .\nIhe review is not couplete.\nHr. Pottinger and all those who have\ncommented upon his namrandun reccnmend\nthet the review M e~_*,nlet@. Hr.\nPottinger also has made other reccm:endaticns upon which there is scme difference of opinion. In my view, it is\nessential that the review be ccupleted\nas soon as possible and in as thorough\na nnnner as is required to answer the\nbasic qmstions. In view of that has\nalready \u0018beam done, and the tentative\n@.e11_1.1.=iens reer.:hed., special -etph\u0001is\nshould betgven to the fourth questicn.\nIn conduc g this review you should\ncall tpon the Department to furnish\nto youthe staff you need.\nMy cmclusicn as to thef revie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task F",
+              "start_page": 14,
+              "end_page": 15,
+              "score": 0.2742
+            }
+          ]
+        },
+        {
+          "statement": "A task force was established to review the FBI's investigation, examining the character and completeness of the murder investigation [1, pp.17-18].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c13",
+              "doc_id": "mkl1a",
+              "text": ";s investigation was ccnprehensive, thorough\nan professicnal\" Qixrphy n:elm&#39;randum of March 31, 1976. p. 6! .i\nIt was determined therefore to begin the task force&#39;s study\nwith a complete review of the files on the FBI&#39;s investigation\nof the assassination. It was the consensus of the review\nteam that by approaching the whole task by \u0001rst examining\nthe character md carpleteness of the uzurder investigation\n-_ 4-.__._... ___.&#39;l.1 I... __.I- \u00a2._ ..1__ e._.e______ J-v___-_92l_ _ ___A __Bl E-BWGL GI-Ll-LLL UH HHUB LU I-HE H-CCUITIBY uazerai S IILQSG-.CI&#39;1\nas to the Bureau&#39;s performance in that regard and also m\nanswer could be indicated to his question going to the Bureau&#39;s\npossible responsibility, if any, direct or indirect, for\nDr. King\u0018: death.\nAfter the examination of the FBI&#39;s investigation of\nthe uurder of Dr. King, the review team proceeded to go\n-3-\n\n: - 92\nback and complete the ir.qui..\"y into the Bureau&#39;s preassassination relationship with Dr. King. Necessarily\nincluded again in this second stage of our review was\nthe oonsideration of whether the FBI was in mfway\ninplicated in the sander directly or indirectly.\nIhe task force rade a particular point of looking\nat all the material in the FBI headquarters and \u0001eld\noffice files on the Assassination Immstigation, the so11 A \"M &#39;:.....= .e.. ...1:\u0018k_in File\u0018  being en eeronym i\"er l\u00195._l.r-ier\nof King! ll; the Fartin Luther King Security File Z]; the\nCcminfil-SCZLC File  Ca:&#39;\u0001,n.fi1 being en acrcmym for Ccxzrrunist\ninfiltration; S.C.L.C., the initials for the Southern Christian\n-1",
+              "start_page": 17,
+              "end_page": 18,
+              "score": 0.3273
+            },
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2932
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.2812
+            }
+          ]
+        },
+        {
+          "statement": "The review team examined files from various FBI field offices, including Memphis, Atlanta, and Los Angeles, and scanned pertinent newspaper clippings [5, pp.19-21].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c13",
+              "doc_id": "mkl1a",
+              "text": ";s investigation was ccnprehensive, thorough\nan professicnal\" Qixrphy n:elm&#39;randum of March 31, 1976. p. 6! .i\nIt was determined therefore to begin the task force&#39;s study\nwith a complete review of the files on the FBI&#39;s investigation\nof the assassination. It was the consensus of the review\nteam that by approaching the whole task by \u0001rst examining\nthe character md carpleteness of the uzurder investigation\n-_ 4-.__._... ___.&#39;l.1 I... __.I- \u00a2._ ..1__ e._.e______ J-v___-_92l_ _ ___A __Bl E-BWGL GI-Ll-LLL UH HHUB LU I-HE H-CCUITIBY uazerai S IILQSG-.CI&#39;1\nas to the Bureau&#39;s performance in that regard and also m\nanswer could be indicated to his question going to the Bureau&#39;s\npossible responsibility, if any, direct or indirect, for\nDr. King\u0018: death.\nAfter the examination of the FBI&#39;s investigation of\nthe uurder of Dr. King, the review team proceeded to go\n-3-\n\n: - 92\nback and complete the ir.qui..\"y into the Bureau&#39;s preassassination relationship with Dr. King. Necessarily\nincluded again in this second stage of our review was\nthe oonsideration of whether the FBI was in mfway\ninplicated in the sander directly or indirectly.\nIhe task force rade a particular point of looking\nat all the material in the FBI headquarters and \u0001eld\noffice files on the Assassination Immstigation, the so11 A \"M &#39;:.....= .e.. ...1:\u0018k_in File\u0018  being en eeronym i\"er l\u00195._l.r-ier\nof King! ll; the Fartin Luther King Security File Z]; the\nCcminfil-SCZLC File  Ca:&#39;\u0001,n.fi1 being en acrcmym for Ccxzrrunist\ninfiltration; S.C.L.C., the initials for the Southern Christian\n-1",
+              "start_page": 17,
+              "end_page": 18,
+              "score": 0.3273
+            },
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2932
+            },
+            {
+              "chunk_id": "mkl1a_c10",
+              "doc_id": "mkl1a",
+              "text": "to the assassination my waderstanding is t:hat the Department has nevuclosed the Martin luther King file and\nthat nunerous allegations of the possible\ninvolvement of co-conspirators are promptly\ninvestigated. The thrust of the review which\nI requested, however, was to determine\nwhether: new look at what was done bythe\nBureau in investigating the assassinatim\nor in the relationship between the Bmreau.\n-5-\n\nQ\n0\ni\nand Dr. King Ili\u0002lt give a ctiffermt\nemphasis ornewclues inmywayto &#39;\nthe qeestim of invol92\u00bbm...=-at m thet\ncrime. At this point in the review,\nas I reed the memrands, nothing has\n%d up relevant m this latter\npo .\nIhe review is not couplete.\nHr. Pottinger and all those who have\ncommented upon his namrandun reccnmend\nthet the review M e~_*,nlet@. Hr.\nPottinger also has made other reccm:endaticns upon which there is scme difference of opinion. In my view, it is\nessential that the review be ccupleted\nas soon as possible and in as thorough\na nnnner as is required to answer the\nbasic qmstions. In view of that has\nalready \u0018beam done, and the tentative\n@.e11_1.1.=iens reer.:hed., special -etph\u0001is\nshould betgven to the fourth questicn.\nIn conduc g this review you should\ncall tpon the Department to furnish\nto youthe staff you need.\nMy cmclusicn as to thef revie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task F",
+              "start_page": 14,
+              "end_page": 15,
+              "score": 0.2742
+            }
+          ]
+        },
+        {
+          "statement": "The task force reviewed over 200,000 entries, many with multiple pages [5, pp.19-21].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.2696
+            }
+          ]
+        },
+        {
+          "statement": "Excisions were made to protect privacy rights, sensitive FBI sources and methods, and classified material, and changes were made to correct factual errors [2, pp.5-7], [3, pp.4-6].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2932
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.2812
+            }
+          ]
+        },
+        {
+          "statement": "No decision has been made on whether the report will be released to the public [2, pp.5-7], [3, pp.4-6].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c13",
+              "doc_id": "mkl1a",
+              "text": ";s investigation was ccnprehensive, thorough\nan professicnal\" Qixrphy n:elm&#39;randum of March 31, 1976. p. 6! .i\nIt was determined therefore to begin the task force&#39;s study\nwith a complete review of the files on the FBI&#39;s investigation\nof the assassination. It was the consensus of the review\nteam that by approaching the whole task by \u0001rst examining\nthe character md carpleteness of the uzurder investigation\n-_ 4-.__._... ___.&#39;l.1 I... __.I- \u00a2._ ..1__ e._.e______ J-v___-_92l_ _ ___A __Bl E-BWGL GI-Ll-LLL UH HHUB LU I-HE H-CCUITIBY uazerai S IILQSG-.CI&#39;1\nas to the Bureau&#39;s performance in that regard and also m\nanswer could be indicated to his question going to the Bureau&#39;s\npossible responsibility, if any, direct or indirect, for\nDr. King\u0018: death.\nAfter the examination of the FBI&#39;s investigation of\nthe uurder of Dr. King, the review team proceeded to go\n-3-\n\n: - 92\nback and complete the ir.qui..\"y into the Bureau&#39;s preassassination relationship with Dr. King. Necessarily\nincluded again in this second stage of our review was\nthe oonsideration of whether the FBI was in mfway\ninplicated in the sander directly or indirectly.\nIhe task force rade a particular point of looking\nat all the material in the FBI headquarters and \u0001eld\noffice files on the Assassination Immstigation, the so11 A \"M &#39;:.....= .e.. ...1:\u0018k_in File\u0018  being en eeronym i\"er l\u00195._l.r-ier\nof King! ll; the Fartin Luther King Security File Z]; the\nCcminfil-SCZLC File  Ca:&#39;\u0001,n.fi1 being en acrcmym for Ccxzrrunist\ninfiltration; S.C.L.C., the initials for the Southern Christian\n-1",
+              "start_page": 17,
+              "end_page": 18,
+              "score": 0.3273
+            },
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2932
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.2812
+            }
+          ]
+        },
+        {
+          "statement": "The Department has not closed the Martin Luther King file, and numerous allegations of possible involvement of co-conspirators are being investigated [4, pp.14-15].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c13",
+              "doc_id": "mkl1a",
+              "text": ";s investigation was ccnprehensive, thorough\nan professicnal\" Qixrphy n:elm&#39;randum of March 31, 1976. p. 6! .i\nIt was determined therefore to begin the task force&#39;s study\nwith a complete review of the files on the FBI&#39;s investigation\nof the assassination. It was the consensus of the review\nteam that by approaching the whole task by \u0001rst examining\nthe character md carpleteness of the uzurder investigation\n-_ 4-.__._... ___.&#39;l.1 I... __.I- \u00a2._ ..1__ e._.e______ J-v___-_92l_ _ ___A __Bl E-BWGL GI-Ll-LLL UH HHUB LU I-HE H-CCUITIBY uazerai S IILQSG-.CI&#39;1\nas to the Bureau&#39;s performance in that regard and also m\nanswer could be indicated to his question going to the Bureau&#39;s\npossible responsibility, if any, direct or indirect, for\nDr. King\u0018: death.\nAfter the examination of the FBI&#39;s investigation of\nthe uurder of Dr. King, the review team proceeded to go\n-3-\n\n: - 92\nback and complete the ir.qui..\"y into the Bureau&#39;s preassassination relationship with Dr. King. Necessarily\nincluded again in this second stage of our review was\nthe oonsideration of whether the FBI was in mfway\ninplicated in the sander directly or indirectly.\nIhe task force rade a particular point of looking\nat all the material in the FBI headquarters and \u0001eld\noffice files on the Assassination Immstigation, the so11 A \"M &#39;:.....= .e.. ...1:\u0018k_in File\u0018  being en eeronym i\"er l\u00195._l.r-ier\nof King! ll; the Fartin Luther King Security File Z]; the\nCcminfil-SCZLC File  Ca:&#39;\u0001,n.fi1 being en acrcmym for Ccxzrrunist\ninfiltration; S.C.L.C., the initials for the Southern Christian\n-1",
+              "start_page": 17,
+              "end_page": 18,
+              "score": 0.3273
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.2812
+            },
+            {
+              "chunk_id": "mkl1a_c10",
+              "doc_id": "mkl1a",
+              "text": "to the assassination my waderstanding is t:hat the Department has nevuclosed the Martin luther King file and\nthat nunerous allegations of the possible\ninvolvement of co-conspirators are promptly\ninvestigated. The thrust of the review which\nI requested, however, was to determine\nwhether: new look at what was done bythe\nBureau in investigating the assassinatim\nor in the relationship between the Bmreau.\n-5-\n\nQ\n0\ni\nand Dr. King Ili\u0002lt give a ctiffermt\nemphasis ornewclues inmywayto &#39;\nthe qeestim of invol92\u00bbm...=-at m thet\ncrime. At this point in the review,\nas I reed the memrands, nothing has\n%d up relevant m this latter\npo .\nIhe review is not couplete.\nHr. Pottinger and all those who have\ncommented upon his namrandun reccnmend\nthet the review M e~_*,nlet@. Hr.\nPottinger also has made other reccm:endaticns upon which there is scme difference of opinion. In my view, it is\nessential that the review be ccupleted\nas soon as possible and in as thorough\na nnnner as is required to answer the\nbasic qmstions. In view of that has\nalready \u0018beam done, and the tentative\n@.e11_1.1.=iens reer.:hed., special -etph\u0001is\nshould betgven to the fourth questicn.\nIn conduc g this review you should\ncall tpon the Department to furnish\nto youthe staff you need.\nMy cmclusicn as to thef revie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task F",
+              "start_page": 14,
+              "end_page": 15,
+              "score": 0.2742
+            }
+          ]
+        },
+        {
+          "statement": "As of the current point in the review, nothing has been found to give a different emphasis or new clues to the question of involvement in the crime [4, pp.14-15].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c13",
+              "doc_id": "mkl1a",
+              "text": ";s investigation was ccnprehensive, thorough\nan professicnal\" Qixrphy n:elm&#39;randum of March 31, 1976. p. 6! .i\nIt was determined therefore to begin the task force&#39;s study\nwith a complete review of the files on the FBI&#39;s investigation\nof the assassination. It was the consensus of the review\nteam that by approaching the whole task by \u0001rst examining\nthe character md carpleteness of the uzurder investigation\n-_ 4-.__._... ___.&#39;l.1 I... __.I- \u00a2._ ..1__ e._.e______ J-v___-_92l_ _ ___A __Bl E-BWGL GI-Ll-LLL UH HHUB LU I-HE H-CCUITIBY uazerai S IILQSG-.CI&#39;1\nas to the Bureau&#39;s performance in that regard and also m\nanswer could be indicated to his question going to the Bureau&#39;s\npossible responsibility, if any, direct or indirect, for\nDr. King\u0018: death.\nAfter the examination of the FBI&#39;s investigation of\nthe uurder of Dr. King, the review team proceeded to go\n-3-\n\n: - 92\nback and complete the ir.qui..\"y into the Bureau&#39;s preassassination relationship with Dr. King. Necessarily\nincluded again in this second stage of our review was\nthe oonsideration of whether the FBI was in mfway\ninplicated in the sander directly or indirectly.\nIhe task force rade a particular point of looking\nat all the material in the FBI headquarters and \u0001eld\noffice files on the Assassination Immstigation, the so11 A \"M &#39;:.....= .e.. ...1:\u0018k_in File\u0018  being en eeronym i\"er l\u00195._l.r-ier\nof King! ll; the Fartin Luther King Security File Z]; the\nCcminfil-SCZLC File  Ca:&#39;\u0001,n.fi1 being en acrcmym for Ccxzrrunist\ninfiltration; S.C.L.C., the initials for the Southern Christian\n-1",
+              "start_page": 17,
+              "end_page": 18,
+              "score": 0.3273
+            },
+            {
+              "chunk_id": "mkl1a_c10",
+              "doc_id": "mkl1a",
+              "text": "to the assassination my waderstanding is t:hat the Department has nevuclosed the Martin luther King file and\nthat nunerous allegations of the possible\ninvolvement of co-conspirators are promptly\ninvestigated. The thrust of the review which\nI requested, however, was to determine\nwhether: new look at what was done bythe\nBureau in investigating the assassinatim\nor in the relationship between the Bmreau.\n-5-\n\nQ\n0\ni\nand Dr. King Ili\u0002lt give a ctiffermt\nemphasis ornewclues inmywayto &#39;\nthe qeestim of invol92\u00bbm...=-at m thet\ncrime. At this point in the review,\nas I reed the memrands, nothing has\n%d up relevant m this latter\npo .\nIhe review is not couplete.\nHr. Pottinger and all those who have\ncommented upon his namrandun reccnmend\nthet the review M e~_*,nlet@. Hr.\nPottinger also has made other reccm:endaticns upon which there is scme difference of opinion. In my view, it is\nessential that the review be ccupleted\nas soon as possible and in as thorough\na nnnner as is required to answer the\nbasic qmstions. In view of that has\nalready \u0018beam done, and the tentative\n@.e11_1.1.=iens reer.:hed., special -etph\u0001is\nshould betgven to the fourth questicn.\nIn conduc g this review you should\ncall tpon the Department to furnish\nto youthe staff you need.\nMy cmclusicn as to thef revie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task F",
+              "start_page": 14,
+              "end_page": 15,
+              "score": 0.2742
+            }
+          ]
+        },
+        {
+          "statement": "There is no evidence of electronic surveillance of Dr.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c27",
+              "doc_id": "mkl1a",
+              "text": "peculation\n-23-\n\n4. {Bl Intelligence and.Lo\u00a2al Police Activities\na. F151 Info-:T92ants.  G. Jensen, the Special\nAgent in Charge of the l\u0002rphis Field Office, and Joseph\nHester, case agent for MJRKIN, have unequivocally assured _\nthe task force that there was no electronic surveillance of\nDr. King in Penphis. It was explained that Merrphis was not in\nthe mainstream of Dr. King&#39;s SCIC activities  Interview\nof Special Agent Joe Hester, June 23, 1975, A@.B!.\nHowever, FBI agents did observe the sanitation worker&#39;s\nstrike activities for intelligence purposes and the Memphis\n\u0014n_1I \u0014.&#39; ___4___ - Iqi;92 ___92 __ I-1 __I_92 _ O3 ! P __ I 3\u0018\nroiioe ueparorent wen; and oonrioential pain inrormants aid\nsupply information to the field office  lnterviea of former\nSAC Robert Jensen, July 7, 1976, App.B!.\nOur investigation disclosed that \"there were five paid\nconfidential informants providing intelligence regarding the\nracial situation to the tnnphis Field Office on a continuing\nbasis. The intelligence coverage pxovickd by these individuals\nrelated to the activities of the Nation of Islan, Black Students\nAssociation of PSU, Students for a Democratic Society, Black\n\u0001rganizing \u0018Power, Black  Front, Afro-American Brothere\nhood, Invaders and the sanitaticn workers strike. There is\n-24-\n\n\u001892\nno evidmce. that the activities of these informants related\nd.i_rectly to Dr. King. M_oreov|1&#39;. there 2 no avid-_g1.ce\nthat would suggest that these informants were connected in\nany way with the assassination of Dr. King. \u0018 I-Q 134-11867;\n170-1841; 170-1922; 170-2530 and 137-A885.!\nI b. l~_IPD",
+              "start_page": 32,
+              "end_page": 34,
+              "score": 0.2594
+            }
+          ]
+        },
+        {
+          "statement": "King in Memphis, but FBI agents did observe sanitation worker's strike activities for intelligence purposes [6, pp.32-34].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2932
+            },
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.2696
+            },
+            {
+              "chunk_id": "mkl1a_c27",
+              "doc_id": "mkl1a",
+              "text": "peculation\n-23-\n\n4. {Bl Intelligence and.Lo\u00a2al Police Activities\na. F151 Info-:T92ants.  G. Jensen, the Special\nAgent in Charge of the l\u0002rphis Field Office, and Joseph\nHester, case agent for MJRKIN, have unequivocally assured _\nthe task force that there was no electronic surveillance of\nDr. King in Penphis. It was explained that Merrphis was not in\nthe mainstream of Dr. King&#39;s SCIC activities  Interview\nof Special Agent Joe Hester, June 23, 1975, A@.B!.\nHowever, FBI agents did observe the sanitation worker&#39;s\nstrike activities for intelligence purposes and the Memphis\n\u0014n_1I \u0014.&#39; ___4___ - Iqi;92 ___92 __ I-1 __I_92 _ O3 ! P __ I 3\u0018\nroiioe ueparorent wen; and oonrioential pain inrormants aid\nsupply information to the field office  lnterviea of former\nSAC Robert Jensen, July 7, 1976, App.B!.\nOur investigation disclosed that \"there were five paid\nconfidential informants providing intelligence regarding the\nracial situation to the tnnphis Field Office on a continuing\nbasis. The intelligence coverage pxovickd by these individuals\nrelated to the activities of the Nation of Islan, Black Students\nAssociation of PSU, Students for a Democratic Society, Black\n\u0001rganizing \u0018Power, Black  Front, Afro-American Brothere\nhood, Invaders and the sanitaticn workers strike. There is\n-24-\n\n\u001892\nno evidmce. that the activities of these informants related\nd.i_rectly to Dr. King. M_oreov|1&#39;. there 2 no avid-_g1.ce\nthat would suggest that these informants were connected in\nany way with the assassination of Dr. King. \u0018 I-Q 134-11867;\n170-1841; 170-1922; 170-2530 and 137-A885.!\nI b. l~_IPD",
+              "start_page": 32,
+              "end_page": 34,
+              "score": 0.2594
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Key Facts",
+      "raw_text": "The report has been modified to protect the rights of persons, sensitive FBI sources and methods, and to delete classified material [mkl1a, pp.5\u20137]. Changes were also made to correct factual errors present in the original version of the report [mkl1a, pp.5\u20137]. No decision has been made regarding the public release of this report [mkl1a, pp.5\u20137]. No clear evidence found regarding the specific content or purpose of the report beyond these modifications.",
+      "claims": [
+        {
+          "statement": "The report has been modified to protect the rights of persons, sensitive FBI sources and methods, and to delete classified material [mkl1a, pp.5\u20137].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2522
+            }
+          ]
+        },
+        {
+          "statement": "Changes were also made to correct factual errors present in the original version of the report [mkl1a, pp.5\u20137].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2522
+            }
+          ]
+        },
+        {
+          "statement": "No decision has been made regarding the public release of this report [mkl1a, pp.5\u20137].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2522
+            }
+          ]
+        },
+        {
+          "statement": "No clear evidence found regarding the specific content or purpose of the report beyond these modifications.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.2522
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Potential Risks",
+      "raw_text": "Potential risks to the firm may arise from the systematic program of harassment [mkl1a, pp.15-16], which could lead to specific actions being taken against the firm. The evidence suggests that a review of certain materials may be necessary to determine which ones could be legally destroyed [mkl1a, pp.13-14]. Additionally, the possibility of criminal redress being time-barred, and civil remedies being available but potentially not beneficial, may pose risks to the firm [mkl1a, pp.13-14]. However, no clear evidence is found regarding the potential consequences of releasing the report to the public [mkl1a, pp.5-7], as no decision has been made on whether the report will be released. The firm should also consider the potential risks associated with the protection of sensitive FBI sources and methods, as well as the deletion of classified material [mkl1a, pp.5-7].",
+      "claims": [
+        {
+          "statement": "Potential risks to the firm may arise from the systematic program of harassment [mkl1a, pp.15-16], which could lead to specific actions being taken against the firm.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c11",
+              "doc_id": "mkl1a",
+              "text": "evie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task Force And The Method of Review\nThe Comsel of the Office of Professicnal Res-ponsi\nbility selected three attorneys frtm the Civil Ri\u00a71ts Division,\n&#39; Joseph F. Gross, Jr., Jmes R. Kieckhefer md William D Waite\nme attorney from the Criminal Section of the Tax Division,\n,-s-\n\nJms F. Walker, and s retired attorney Fred G. 1-\u0018olsun,\nwho is currently a consultant to the Tax Division with\n37 years of experimce in Civil Rigmts Division  which\nincluded hcnocide cases!, Criminal Divisicn and Tax\nDivision prosecutions. As the senior mm the letter\nxqas designated to bead the task force. This oclmiittee\nor task force bepm its work cn May la, 1976. Ihe committee\nwas further staffed by the addition of two research analysts,\nMs. Hope Byrne md Mr. Geoffrey Covert, two secretaries,\nMs. Veronica Keith and Hrs. Renee Holmes, and two clerktypists, Mrs. ieroylyne Mzrray md Ms. Dana Boyd.\nConsideration of a~tentative outline for an eventual\nreport based on the chronology of events in the relationship\nbetween Dr. Martin Luther King and the_Federal Bureau of\nIl&#39;_1192.est_\u0018l.gatiQ brought the ts...-=1<. iorce 1.1,: against the feet\nthat the \u0001eld of cm history before the assassination ma\njust been plowed twice: once by the Civil Pignts Division\nnemranda of March 31, 1976, and Apri",
+              "start_page": 15,
+              "end_page": 16,
+              "score": 0.3367
+            }
+          ]
+        },
+        {
+          "statement": "The evidence suggests that a review of certain materials may be necessary to determine which ones could be legally destroyed [mkl1a, pp.13-14].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c11",
+              "doc_id": "mkl1a",
+              "text": "evie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task Force And The Method of Review\nThe Comsel of the Office of Professicnal Res-ponsi\nbility selected three attorneys frtm the Civil Ri\u00a71ts Division,\n&#39; Joseph F. Gross, Jr., Jmes R. Kieckhefer md William D Waite\nme attorney from the Criminal Section of the Tax Division,\n,-s-\n\nJms F. Walker, and s retired attorney Fred G. 1-\u0018olsun,\nwho is currently a consultant to the Tax Division with\n37 years of experimce in Civil Rigmts Division  which\nincluded hcnocide cases!, Criminal Divisicn and Tax\nDivision prosecutions. As the senior mm the letter\nxqas designated to bead the task force. This oclmiittee\nor task force bepm its work cn May la, 1976. Ihe committee\nwas further staffed by the addition of two research analysts,\nMs. Hope Byrne md Mr. Geoffrey Covert, two secretaries,\nMs. Veronica Keith and Hrs. Renee Holmes, and two clerktypists, Mrs. ieroylyne Mzrray md Ms. Dana Boyd.\nConsideration of a~tentative outline for an eventual\nreport based on the chronology of events in the relationship\nbetween Dr. Martin Luther King and the_Federal Bureau of\nIl&#39;_1192.est_\u0018l.gatiQ brought the ts...-=1<. iorce 1.1,: against the feet\nthat the \u0001eld of cm history before the assassination ma\njust been plowed twice: once by the Civil Pignts Division\nnemranda of March 31, 1976, and Apri",
+              "start_page": 15,
+              "end_page": 16,
+              "score": 0.3367
+            },
+            {
+              "chunk_id": "mkl1a_c8",
+              "doc_id": "mkl1a",
+              "text": "a view to determining\nwhich of such mterials shculd be and could be legally\ndestroyed. The Assistant Attorney General felt that\nthe 1-\u0018BI should assess the culpability of its agents\ninvolved in the wrongdoing by the principals tamed in\nthe report. His 1::-zmorandun to the Attorney General\nccncluded that probably crinzinal redress was timbarred, that civil remedies tight be available to\nthe King family but might also be note enban&#39;assing\nthan helpful, md hence that consideration be given\nto a direct payment by the settlement process or by\na private bill to coupensate the King survivors, or\nwith the survivors\u0019 concmrmce, the King Fomdation;\nLfthis last issuewereleft tothetask forceoran\nAdvisory Oomnissicn, it should cmsider the pros and\nconsandrecomm.-ndasitsees\u0001t. &#39;\nThe Attorney General forwarded the Civil Rigmts\nDivision memoranda  md oommnts thereon from the Deputy\nAttorney Gmeral, the Solicitor General, md \u0001r.-cm staff\nnmbers and the Assistant Attorney General of the Crinrlinal\nDivisicn! to the Comsel, Office of Pr-ofessicnal Responsibility. \u0018Rae Attorney General charged the Of\u0001ce of\nProfessional Responsibility with the work of cazpleting\nthe  begm by  Civil Rights Division. His unmrandun states:\n\n_ _ f\u0002jirequestfortherezriew _\ninvolved four untters. I-\u0018irst, whether\nltmking dgatimingign D:&#39;t1-urcngh &#39;\u0018a assess was\nand ha-zest; second, whether there was\nany evidence that the FBI was involved\nin the assessinaticn of Dr. King; third,\nin light of the first two questions,\nwhether there is any new evidence which\nhas come to the attention of the Department conce",
+              "start_page": 13,
+              "end_page": 14,
+              "score": 0.3357
+            },
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.259
+            }
+          ]
+        },
+        {
+          "statement": "Additionally, the possibility of criminal redress being time-barred, and civil remedies being available but potentially not beneficial, may pose risks to the firm [mkl1a, pp.13-14].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c11",
+              "doc_id": "mkl1a",
+              "text": "evie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task Force And The Method of Review\nThe Comsel of the Office of Professicnal Res-ponsi\nbility selected three attorneys frtm the Civil Ri\u00a71ts Division,\n&#39; Joseph F. Gross, Jr., Jmes R. Kieckhefer md William D Waite\nme attorney from the Criminal Section of the Tax Division,\n,-s-\n\nJms F. Walker, and s retired attorney Fred G. 1-\u0018olsun,\nwho is currently a consultant to the Tax Division with\n37 years of experimce in Civil Rigmts Division  which\nincluded hcnocide cases!, Criminal Divisicn and Tax\nDivision prosecutions. As the senior mm the letter\nxqas designated to bead the task force. This oclmiittee\nor task force bepm its work cn May la, 1976. Ihe committee\nwas further staffed by the addition of two research analysts,\nMs. Hope Byrne md Mr. Geoffrey Covert, two secretaries,\nMs. Veronica Keith and Hrs. Renee Holmes, and two clerktypists, Mrs. ieroylyne Mzrray md Ms. Dana Boyd.\nConsideration of a~tentative outline for an eventual\nreport based on the chronology of events in the relationship\nbetween Dr. Martin Luther King and the_Federal Bureau of\nIl&#39;_1192.est_\u0018l.gatiQ brought the ts...-=1<. iorce 1.1,: against the feet\nthat the \u0001eld of cm history before the assassination ma\njust been plowed twice: once by the Civil Pignts Division\nnemranda of March 31, 1976, and Apri",
+              "start_page": 15,
+              "end_page": 16,
+              "score": 0.3367
+            },
+            {
+              "chunk_id": "mkl1a_c8",
+              "doc_id": "mkl1a",
+              "text": "a view to determining\nwhich of such mterials shculd be and could be legally\ndestroyed. The Assistant Attorney General felt that\nthe 1-\u0018BI should assess the culpability of its agents\ninvolved in the wrongdoing by the principals tamed in\nthe report. His 1::-zmorandun to the Attorney General\nccncluded that probably crinzinal redress was timbarred, that civil remedies tight be available to\nthe King family but might also be note enban&#39;assing\nthan helpful, md hence that consideration be given\nto a direct payment by the settlement process or by\na private bill to coupensate the King survivors, or\nwith the survivors\u0019 concmrmce, the King Fomdation;\nLfthis last issuewereleft tothetask forceoran\nAdvisory Oomnissicn, it should cmsider the pros and\nconsandrecomm.-ndasitsees\u0001t. &#39;\nThe Attorney General forwarded the Civil Rigmts\nDivision memoranda  md oommnts thereon from the Deputy\nAttorney Gmeral, the Solicitor General, md \u0001r.-cm staff\nnmbers and the Assistant Attorney General of the Crinrlinal\nDivisicn! to the Comsel, Office of Pr-ofessicnal Responsibility. \u0018Rae Attorney General charged the Of\u0001ce of\nProfessional Responsibility with the work of cazpleting\nthe  begm by  Civil Rights Division. His unmrandun states:\n\n_ _ f\u0002jirequestfortherezriew _\ninvolved four untters. I-\u0018irst, whether\nltmking dgatimingign D:&#39;t1-urcngh &#39;\u0018a assess was\nand ha-zest; second, whether there was\nany evidence that the FBI was involved\nin the assessinaticn of Dr. King; third,\nin light of the first two questions,\nwhether there is any new evidence which\nhas come to the attention of the Department conce",
+              "start_page": 13,
+              "end_page": 14,
+              "score": 0.3357
+            }
+          ]
+        },
+        {
+          "statement": "However, no clear evidence is found regarding the potential consequences of releasing the report to the public [mkl1a, pp.5-7], as no decision has been made on whether the report will be released.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c11",
+              "doc_id": "mkl1a",
+              "text": "evie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task Force And The Method of Review\nThe Comsel of the Office of Professicnal Res-ponsi\nbility selected three attorneys frtm the Civil Ri\u00a71ts Division,\n&#39; Joseph F. Gross, Jr., Jmes R. Kieckhefer md William D Waite\nme attorney from the Criminal Section of the Tax Division,\n,-s-\n\nJms F. Walker, and s retired attorney Fred G. 1-\u0018olsun,\nwho is currently a consultant to the Tax Division with\n37 years of experimce in Civil Rigmts Division  which\nincluded hcnocide cases!, Criminal Divisicn and Tax\nDivision prosecutions. As the senior mm the letter\nxqas designated to bead the task force. This oclmiittee\nor task force bepm its work cn May la, 1976. Ihe committee\nwas further staffed by the addition of two research analysts,\nMs. Hope Byrne md Mr. Geoffrey Covert, two secretaries,\nMs. Veronica Keith and Hrs. Renee Holmes, and two clerktypists, Mrs. ieroylyne Mzrray md Ms. Dana Boyd.\nConsideration of a~tentative outline for an eventual\nreport based on the chronology of events in the relationship\nbetween Dr. Martin Luther King and the_Federal Bureau of\nIl&#39;_1192.est_\u0018l.gatiQ brought the ts...-=1<. iorce 1.1,: against the feet\nthat the \u0001eld of cm history before the assassination ma\njust been plowed twice: once by the Civil Pignts Division\nnemranda of March 31, 1976, and Apri",
+              "start_page": 15,
+              "end_page": 16,
+              "score": 0.3367
+            },
+            {
+              "chunk_id": "mkl1a_c8",
+              "doc_id": "mkl1a",
+              "text": "a view to determining\nwhich of such mterials shculd be and could be legally\ndestroyed. The Assistant Attorney General felt that\nthe 1-\u0018BI should assess the culpability of its agents\ninvolved in the wrongdoing by the principals tamed in\nthe report. His 1::-zmorandun to the Attorney General\nccncluded that probably crinzinal redress was timbarred, that civil remedies tight be available to\nthe King family but might also be note enban&#39;assing\nthan helpful, md hence that consideration be given\nto a direct payment by the settlement process or by\na private bill to coupensate the King survivors, or\nwith the survivors\u0019 concmrmce, the King Fomdation;\nLfthis last issuewereleft tothetask forceoran\nAdvisory Oomnissicn, it should cmsider the pros and\nconsandrecomm.-ndasitsees\u0001t. &#39;\nThe Attorney General forwarded the Civil Rigmts\nDivision memoranda  md oommnts thereon from the Deputy\nAttorney Gmeral, the Solicitor General, md \u0001r.-cm staff\nnmbers and the Assistant Attorney General of the Crinrlinal\nDivisicn! to the Comsel, Office of Pr-ofessicnal Responsibility. \u0018Rae Attorney General charged the Of\u0001ce of\nProfessional Responsibility with the work of cazpleting\nthe  begm by  Civil Rights Division. His unmrandun states:\n\n_ _ f\u0002jirequestfortherezriew _\ninvolved four untters. I-\u0018irst, whether\nltmking dgatimingign D:&#39;t1-urcngh &#39;\u0018a assess was\nand ha-zest; second, whether there was\nany evidence that the FBI was involved\nin the assessinaticn of Dr. King; third,\nin light of the first two questions,\nwhether there is any new evidence which\nhas come to the attention of the Department conce",
+              "start_page": 13,
+              "end_page": 14,
+              "score": 0.3357
+            },
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.259
+            }
+          ]
+        },
+        {
+          "statement": "The firm should also consider the potential risks associated with the protection of sensitive FBI sources and methods, as well as the deletion of classified material [mkl1a, pp.5-7].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c11",
+              "doc_id": "mkl1a",
+              "text": "evie-r\nconducted by the Civil Rights Divisicn\nis that ithesnowshownthatthis\neehlplete  Q neeesse-y, p=1_1&#39;ti_eulsrly in view of the ccnclusion as to\nthe systematic program of harassment.\nIf your review turns up setters for\nspeci\u0001c acticn, we should discuss the\nbest way to proceed cn each such case.\"\ns. 111: \u0018task Force And The Method of Review\nThe Comsel of the Office of Professicnal Res-ponsi\nbility selected three attorneys frtm the Civil Ri\u00a71ts Division,\n&#39; Joseph F. Gross, Jr., Jmes R. Kieckhefer md William D Waite\nme attorney from the Criminal Section of the Tax Division,\n,-s-\n\nJms F. Walker, and s retired attorney Fred G. 1-\u0018olsun,\nwho is currently a consultant to the Tax Division with\n37 years of experimce in Civil Rigmts Division  which\nincluded hcnocide cases!, Criminal Divisicn and Tax\nDivision prosecutions. As the senior mm the letter\nxqas designated to bead the task force. This oclmiittee\nor task force bepm its work cn May la, 1976. Ihe committee\nwas further staffed by the addition of two research analysts,\nMs. Hope Byrne md Mr. Geoffrey Covert, two secretaries,\nMs. Veronica Keith and Hrs. Renee Holmes, and two clerktypists, Mrs. ieroylyne Mzrray md Ms. Dana Boyd.\nConsideration of a~tentative outline for an eventual\nreport based on the chronology of events in the relationship\nbetween Dr. Martin Luther King and the_Federal Bureau of\nIl&#39;_1192.est_\u0018l.gatiQ brought the ts...-=1<. iorce 1.1,: against the feet\nthat the \u0001eld of cm history before the assassination ma\njust been plowed twice: once by the Civil Pignts Division\nnemranda of March 31, 1976, and Apri",
+              "start_page": 15,
+              "end_page": 16,
+              "score": 0.3367
+            },
+            {
+              "chunk_id": "mkl1a_c8",
+              "doc_id": "mkl1a",
+              "text": "a view to determining\nwhich of such mterials shculd be and could be legally\ndestroyed. The Assistant Attorney General felt that\nthe 1-\u0018BI should assess the culpability of its agents\ninvolved in the wrongdoing by the principals tamed in\nthe report. His 1::-zmorandun to the Attorney General\nccncluded that probably crinzinal redress was timbarred, that civil remedies tight be available to\nthe King family but might also be note enban&#39;assing\nthan helpful, md hence that consideration be given\nto a direct payment by the settlement process or by\na private bill to coupensate the King survivors, or\nwith the survivors\u0019 concmrmce, the King Fomdation;\nLfthis last issuewereleft tothetask forceoran\nAdvisory Oomnissicn, it should cmsider the pros and\nconsandrecomm.-ndasitsees\u0001t. &#39;\nThe Attorney General forwarded the Civil Rigmts\nDivision memoranda  md oommnts thereon from the Deputy\nAttorney Gmeral, the Solicitor General, md \u0001r.-cm staff\nnmbers and the Assistant Attorney General of the Crinrlinal\nDivisicn! to the Comsel, Office of Pr-ofessicnal Responsibility. \u0018Rae Attorney General charged the Of\u0001ce of\nProfessional Responsibility with the work of cazpleting\nthe  begm by  Civil Rights Division. His unmrandun states:\n\n_ _ f\u0002jirequestfortherezriew _\ninvolved four untters. I-\u0018irst, whether\nltmking dgatimingign D:&#39;t1-urcngh &#39;\u0018a assess was\nand ha-zest; second, whether there was\nany evidence that the FBI was involved\nin the assessinaticn of Dr. King; third,\nin light of the first two questions,\nwhether there is any new evidence which\nhas come to the attention of the Department conce",
+              "start_page": 13,
+              "end_page": 14,
+              "score": 0.3357
+            },
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.259
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Missing Information",
+      "raw_text": "Several key pieces of information are missing from the available evidence. The decision on whether the report will be released to the public has not been made, as stated in [1, pp.5-7] and [2, pp.4-6]. Additionally, the reasons behind the detailing of Wallace and Newsun to Fire Station No. 33 are unclear, with contradictory statements from various individuals [3, pp.43-44] and [4, pp.45-47]. The FBI's files and records have been examined, but the extent of the examination is not fully disclosed, with over 200,000 entries reviewed [5, pp.19-21]. Furthermore, the motivations behind the detailing of Wallace and Newsun, who were supporters of the sanitation workers strike, are not explicitly stated [6, pp.42-43]. No clear evidence is found regarding the ultimate outcome of the report or the official explanation for the detailing of these individuals.",
+      "claims": [
+        {
+          "statement": "Several key pieces of information are missing from the available evidence.",
+          "evidence": []
+        },
+        {
+          "statement": "The decision on whether the report will be released to the public has not been made, as stated in [1, pp.5-7] and [2, pp.4-6].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.3211
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.3004
+            },
+            {
+              "chunk_id": "mkl1a_c34",
+              "doc_id": "mkl1a",
+              "text": "nrdarad him tn rnnn-rr rn \u0018I-\u0018ire sgagign \u0002gi 31__- we _ -- w-__-ww -v__ \u0014- |_\u0014rw--e I-w -\u0014--e\non the mrning of April lsth rather than Fire Station No. 2.\nNewsun claims that Fire Station No. 31 was ave:-strength at\nthe time and his detail madehis company short. I-brewer.\nhe says he never has received a satisfactory explanation\nwhy he was detailed. However, he did say that Lt. Barnett\nat one time told him he was detailed at the request of the\npolice.  Interview of Floyd E. Newsun, July 8, 1976,\nAPP- B-! &#39;\nY__-\u0018-.-.J__\u00a2_ -g \u0014,__A- -_J -ea.-\u0018-.\u0018_.e- -__._92_-a.-q J A-L- 92IET92 L-.-\u0018JIILCIVJ-Ewb UL pd-5; ERG PIESE.-IL  \u00a7 D1 L-fl: PRU [EVE\nfailed to disclose the ihdividual who initiated the order or\nthe reason for detailing Wallace and Ne-wsun. According to\nformer Lt. Jack Smith, he received a telephone call between\n3:O0p.m. and 5:O0p.m. on April 3, 1968, from either Captain\nJames T. Baity or former Assistant Chief Arthur J. Rivaltoh\nin the perscnnel department specifically requesting that\nNewsun be detailed. No reason was given for the detail.\nSmith said he immediately called Newsun, but Newsun was not\n-34-\n\nlune. Therefore, Smith left a message for Newsun to call\nthe fire staticm. Newsun called about l0:30p.m. and \u0001nith\nadvised him of the detail  Intervied of Jack \u0001nith, dated\nSeptember 27, l976!.\nV Wallace&#39;s ommanding officer, then Captain R.&#39;1\u0018.\nJolmson, likewise stated that he received a telephone\ncall frcm someone in the personnel department requesting\nhim to detail Wallace. However, Johnson has no present\nrecollection of who the individual was that made the\nr",
+              "start_page": 43,
+              "end_page": 44,
+              "score": 0.2849
+            }
+          ]
+        },
+        {
+          "statement": "Additionally, the reasons behind the detailing of Wallace and Newsun to Fire Station No.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c34",
+              "doc_id": "mkl1a",
+              "text": "nrdarad him tn rnnn-rr rn \u0018I-\u0018ire sgagign \u0002gi 31__- we _ -- w-__-ww -v__ \u0014- |_\u0014rw--e I-w -\u0014--e\non the mrning of April lsth rather than Fire Station No. 2.\nNewsun claims that Fire Station No. 31 was ave:-strength at\nthe time and his detail madehis company short. I-brewer.\nhe says he never has received a satisfactory explanation\nwhy he was detailed. However, he did say that Lt. Barnett\nat one time told him he was detailed at the request of the\npolice.  Interview of Floyd E. Newsun, July 8, 1976,\nAPP- B-! &#39;\nY__-\u0018-.-.J__\u00a2_ -g \u0014,__A- -_J -ea.-\u0018-.\u0018_.e- -__._92_-a.-q J A-L- 92IET92 L-.-\u0018JIILCIVJ-Ewb UL pd-5; ERG PIESE.-IL  \u00a7 D1 L-fl: PRU [EVE\nfailed to disclose the ihdividual who initiated the order or\nthe reason for detailing Wallace and Ne-wsun. According to\nformer Lt. Jack Smith, he received a telephone call between\n3:O0p.m. and 5:O0p.m. on April 3, 1968, from either Captain\nJames T. Baity or former Assistant Chief Arthur J. Rivaltoh\nin the perscnnel department specifically requesting that\nNewsun be detailed. No reason was given for the detail.\nSmith said he immediately called Newsun, but Newsun was not\n-34-\n\nlune. Therefore, Smith left a message for Newsun to call\nthe fire staticm. Newsun called about l0:30p.m. and \u0001nith\nadvised him of the detail  Intervied of Jack \u0001nith, dated\nSeptember 27, l976!.\nV Wallace&#39;s ommanding officer, then Captain R.&#39;1\u0018.\nJolmson, likewise stated that he received a telephone\ncall frcm someone in the personnel department requesting\nhim to detail Wallace. However, Johnson has no present\nrecollection of who the individual was that made the\nr",
+              "start_page": 43,
+              "end_page": 44,
+              "score": 0.2849
+            },
+            {
+              "chunk_id": "mkl1a_c37",
+              "doc_id": "mkl1a",
+              "text": "__I 1 QQ 92 E: _.!___!\nGal\u0018! PIOTZBCTZIOH, S1-1168 t\u0002\u0001y YE? Cl-\u0018E  DL8-CK Ilr\u0002l\u0002l 3SS1.g\u0001BC1\nto that station  Interview of James R. Boatwright, September 23\n1916!. &#39;\n-35-\n\nIn this ootmecticn MPD Patrolman Willie n. Richnond\nand former Detective Eduard E. Redditt. who conducted the\nsurveillance of Dr. King and his associates frun =15; fire\nstation, were reoorntacted and specifically asked whether\nthey had requested that Wallace and Newsun be detailed.\nBoth  and Bedddtc denied that they gee su_o_h a\nrequest or had knowledge of any one else in the police\ndepartment making such a request  Reinterviews of Richmnd\nand Redditt, September 28, 1976, App. B!. l\nOar investigation has not disclosed any evidenoe\nthat the detail of Wallace and Newsun was in any way\nccnnected with the assassiriation of Dr. King. However,\nthe circumtances surrociding the details strongly suggest\nthat both man were detailed because they supported the\n\n\u0018mesa units were organized for the purpose of qvoiding riots\nwhich other cities, such as Detroit, had experienced  Interview\nof Frank Hollcman, former Director of Fire and Police for the\nCity of Phnphis, September 15, 1976, App. B!. lbcunents\nobtained from the State&#39;s Attorney General  Itan 9 Eran MPD\nMiscellaneous Records! show that on the evening of April 4,\n1968, at the time Dr. King was shot, there were nine tactical\nunits in service at various locations as follows:\nTact:I,h:i.t No. St:-leer Imatims\n6\nB\n99\n10\nll\n12\n13\n17\n18\nIhcxms and North Parkway\nJackson and Watkins\n-1\nChelsea and Watkins\nthin and Butler\nGeorgia and orzems\n-mg; and Latham\nBellev",
+              "start_page": 45,
+              "end_page": 47,
+              "score": 0.2768
+            },
+            {
+              "chunk_id": "mkl1a_c33",
+              "doc_id": "mkl1a",
+              "text": "April 3rd and Newsucn $25 scheduled &#39;\nto report for the day shift on April lrth. Both of these\nindividuals actively s~:.;1po&#39;rted the smitation workers strike,\nattending their rallies and making financial contributions.\nIn our interview of Wallace  Interview July 8, 1976\nApp. B.! he stated that at about l0=00 or l0;30 on the night\nof April 3rd his captain-told him that a call had come in\nrequesting that a man be detailed to Fire Station No. 33.\nHe was immediately detailed to No. 33 although it was raining\nand he was preparing to go to bed. Wallace further stated\nthat while Fire Station No. 33 was understaffed as a whole.\nthere was no shortage of personnel for the pmp tmck on which\nhe worked. Otherwise, he does not know why he was detailed.\n*,/ -me details of the lelatzk fire-.r_.-=n 1=\u00bb.m.... I-\"ire St-?.&#39;.ZL\".\"..  2 is\nF second reason cited as a basis for the House Select Qmnittee\nto investigate the assassination of Martin Luther King, Jr. -\n-33-\n\nI\nAlso, cn the night of April 3rd I-\u0018irenarr Newsun, in\na vholly personal capacity, attended a rally at the Mason\nTemple where Dr. King made his last speech. _\u0018I-Ihm he returned\nhome  about 10:30p.m.! there was a message for him to call\nLt. J. &uith at the fire department. When he called,\nLt\u0019. J- Srnith nrdarad him tn rnnn-rr rn \u0018I-\u0018ire sgagign \u0002gi 31__- we _ -- w-__-ww -v__ \u0014- |_\u0014rw--e I-w -\u0014--e\non the mrning of April lsth rather than Fire Station No. 2.\nNewsun claims that Fire Station No. 31 was ave:-strength at\nthe time and his detail madehis company short. I-brewer.\nhe says he never has received a satisfactory exp",
+              "start_page": 42,
+              "end_page": 43,
+              "score": 0.2674
+            }
+          ]
+        },
+        {
+          "statement": "33 are unclear, with contradictory statements from various individuals [3, pp.43-44] and [4, pp.45-47].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c37",
+              "doc_id": "mkl1a",
+              "text": "__I 1 QQ 92 E: _.!___!\nGal\u0018! PIOTZBCTZIOH, S1-1168 t\u0002\u0001y YE? Cl-\u0018E  DL8-CK Ilr\u0002l\u0002l 3SS1.g\u0001BC1\nto that station  Interview of James R. Boatwright, September 23\n1916!. &#39;\n-35-\n\nIn this ootmecticn MPD Patrolman Willie n. Richnond\nand former Detective Eduard E. Redditt. who conducted the\nsurveillance of Dr. King and his associates frun =15; fire\nstation, were reoorntacted and specifically asked whether\nthey had requested that Wallace and Newsun be detailed.\nBoth  and Bedddtc denied that they gee su_o_h a\nrequest or had knowledge of any one else in the police\ndepartment making such a request  Reinterviews of Richmnd\nand Redditt, September 28, 1976, App. B!. l\nOar investigation has not disclosed any evidenoe\nthat the detail of Wallace and Newsun was in any way\nccnnected with the assassiriation of Dr. King. However,\nthe circumtances surrociding the details strongly suggest\nthat both man were detailed because they supported the\n\n\u0018mesa units were organized for the purpose of qvoiding riots\nwhich other cities, such as Detroit, had experienced  Interview\nof Frank Hollcman, former Director of Fire and Police for the\nCity of Phnphis, September 15, 1976, App. B!. lbcunents\nobtained from the State&#39;s Attorney General  Itan 9 Eran MPD\nMiscellaneous Records! show that on the evening of April 4,\n1968, at the time Dr. King was shot, there were nine tactical\nunits in service at various locations as follows:\nTact:I,h:i.t No. St:-leer Imatims\n6\nB\n99\n10\nll\n12\n13\n17\n18\nIhcxms and North Parkway\nJackson and Watkins\n-1\nChelsea and Watkins\nthin and Butler\nGeorgia and orzems\n-mg; and Latham\nBellev",
+              "start_page": 45,
+              "end_page": 47,
+              "score": 0.2768
+            },
+            {
+              "chunk_id": "mkl1a_c33",
+              "doc_id": "mkl1a",
+              "text": "April 3rd and Newsucn $25 scheduled &#39;\nto report for the day shift on April lrth. Both of these\nindividuals actively s~:.;1po&#39;rted the smitation workers strike,\nattending their rallies and making financial contributions.\nIn our interview of Wallace  Interview July 8, 1976\nApp. B.! he stated that at about l0=00 or l0;30 on the night\nof April 3rd his captain-told him that a call had come in\nrequesting that a man be detailed to Fire Station No. 33.\nHe was immediately detailed to No. 33 although it was raining\nand he was preparing to go to bed. Wallace further stated\nthat while Fire Station No. 33 was understaffed as a whole.\nthere was no shortage of personnel for the pmp tmck on which\nhe worked. Otherwise, he does not know why he was detailed.\n*,/ -me details of the lelatzk fire-.r_.-=n 1=\u00bb.m.... I-\"ire St-?.&#39;.ZL\".\"..  2 is\nF second reason cited as a basis for the House Select Qmnittee\nto investigate the assassination of Martin Luther King, Jr. -\n-33-\n\nI\nAlso, cn the night of April 3rd I-\u0018irenarr Newsun, in\na vholly personal capacity, attended a rally at the Mason\nTemple where Dr. King made his last speech. _\u0018I-Ihm he returned\nhome  about 10:30p.m.! there was a message for him to call\nLt. J. &uith at the fire department. When he called,\nLt\u0019. J- Srnith nrdarad him tn rnnn-rr rn \u0018I-\u0018ire sgagign \u0002gi 31__- we _ -- w-__-ww -v__ \u0014- |_\u0014rw--e I-w -\u0014--e\non the mrning of April lsth rather than Fire Station No. 2.\nNewsun claims that Fire Station No. 31 was ave:-strength at\nthe time and his detail madehis company short. I-brewer.\nhe says he never has received a satisfactory exp",
+              "start_page": 42,
+              "end_page": 43,
+              "score": 0.2674
+            }
+          ]
+        },
+        {
+          "statement": "The FBI's files and records have been examined, but the extent of the examination is not fully disclosed, with over 200,000 entries reviewed [5, pp.19-21].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c37",
+              "doc_id": "mkl1a",
+              "text": "__I 1 QQ 92 E: _.!___!\nGal\u0018! PIOTZBCTZIOH, S1-1168 t\u0002\u0001y YE? Cl-\u0018E  DL8-CK Ilr\u0002l\u0002l 3SS1.g\u0001BC1\nto that station  Interview of James R. Boatwright, September 23\n1916!. &#39;\n-35-\n\nIn this ootmecticn MPD Patrolman Willie n. Richnond\nand former Detective Eduard E. Redditt. who conducted the\nsurveillance of Dr. King and his associates frun =15; fire\nstation, were reoorntacted and specifically asked whether\nthey had requested that Wallace and Newsun be detailed.\nBoth  and Bedddtc denied that they gee su_o_h a\nrequest or had knowledge of any one else in the police\ndepartment making such a request  Reinterviews of Richmnd\nand Redditt, September 28, 1976, App. B!. l\nOar investigation has not disclosed any evidenoe\nthat the detail of Wallace and Newsun was in any way\nccnnected with the assassiriation of Dr. King. However,\nthe circumtances surrociding the details strongly suggest\nthat both man were detailed because they supported the\n\n\u0018mesa units were organized for the purpose of qvoiding riots\nwhich other cities, such as Detroit, had experienced  Interview\nof Frank Hollcman, former Director of Fire and Police for the\nCity of Phnphis, September 15, 1976, App. B!. lbcunents\nobtained from the State&#39;s Attorney General  Itan 9 Eran MPD\nMiscellaneous Records! show that on the evening of April 4,\n1968, at the time Dr. King was shot, there were nine tactical\nunits in service at various locations as follows:\nTact:I,h:i.t No. St:-leer Imatims\n6\nB\n99\n10\nll\n12\n13\n17\n18\nIhcxms and North Parkway\nJackson and Watkins\n-1\nChelsea and Watkins\nthin and Butler\nGeorgia and orzems\n-mg; and Latham\nBellev",
+              "start_page": 45,
+              "end_page": 47,
+              "score": 0.2768
+            },
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.2701
+            }
+          ]
+        },
+        {
+          "statement": "Furthermore, the motivations behind the detailing of Wallace and Newsun, who were supporters of the sanitation workers strike, are not explicitly stated [6, pp.42-43].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.3211
+            },
+            {
+              "chunk_id": "mkl1a_c34",
+              "doc_id": "mkl1a",
+              "text": "nrdarad him tn rnnn-rr rn \u0018I-\u0018ire sgagign \u0002gi 31__- we _ -- w-__-ww -v__ \u0014- |_\u0014rw--e I-w -\u0014--e\non the mrning of April lsth rather than Fire Station No. 2.\nNewsun claims that Fire Station No. 31 was ave:-strength at\nthe time and his detail madehis company short. I-brewer.\nhe says he never has received a satisfactory explanation\nwhy he was detailed. However, he did say that Lt. Barnett\nat one time told him he was detailed at the request of the\npolice.  Interview of Floyd E. Newsun, July 8, 1976,\nAPP- B-! &#39;\nY__-\u0018-.-.J__\u00a2_ -g \u0014,__A- -_J -ea.-\u0018-.\u0018_.e- -__._92_-a.-q J A-L- 92IET92 L-.-\u0018JIILCIVJ-Ewb UL pd-5; ERG PIESE.-IL  \u00a7 D1 L-fl: PRU [EVE\nfailed to disclose the ihdividual who initiated the order or\nthe reason for detailing Wallace and Ne-wsun. According to\nformer Lt. Jack Smith, he received a telephone call between\n3:O0p.m. and 5:O0p.m. on April 3, 1968, from either Captain\nJames T. Baity or former Assistant Chief Arthur J. Rivaltoh\nin the perscnnel department specifically requesting that\nNewsun be detailed. No reason was given for the detail.\nSmith said he immediately called Newsun, but Newsun was not\n-34-\n\nlune. Therefore, Smith left a message for Newsun to call\nthe fire staticm. Newsun called about l0:30p.m. and \u0001nith\nadvised him of the detail  Intervied of Jack \u0001nith, dated\nSeptember 27, l976!.\nV Wallace&#39;s ommanding officer, then Captain R.&#39;1\u0018.\nJolmson, likewise stated that he received a telephone\ncall frcm someone in the personnel department requesting\nhim to detail Wallace. However, Johnson has no present\nrecollection of who the individual was that made the\nr",
+              "start_page": 43,
+              "end_page": 44,
+              "score": 0.2849
+            },
+            {
+              "chunk_id": "mkl1a_c37",
+              "doc_id": "mkl1a",
+              "text": "__I 1 QQ 92 E: _.!___!\nGal\u0018! PIOTZBCTZIOH, S1-1168 t\u0002\u0001y YE? Cl-\u0018E  DL8-CK Ilr\u0002l\u0002l 3SS1.g\u0001BC1\nto that station  Interview of James R. Boatwright, September 23\n1916!. &#39;\n-35-\n\nIn this ootmecticn MPD Patrolman Willie n. Richnond\nand former Detective Eduard E. Redditt. who conducted the\nsurveillance of Dr. King and his associates frun =15; fire\nstation, were reoorntacted and specifically asked whether\nthey had requested that Wallace and Newsun be detailed.\nBoth  and Bedddtc denied that they gee su_o_h a\nrequest or had knowledge of any one else in the police\ndepartment making such a request  Reinterviews of Richmnd\nand Redditt, September 28, 1976, App. B!. l\nOar investigation has not disclosed any evidenoe\nthat the detail of Wallace and Newsun was in any way\nccnnected with the assassiriation of Dr. King. However,\nthe circumtances surrociding the details strongly suggest\nthat both man were detailed because they supported the\n\n\u0018mesa units were organized for the purpose of qvoiding riots\nwhich other cities, such as Detroit, had experienced  Interview\nof Frank Hollcman, former Director of Fire and Police for the\nCity of Phnphis, September 15, 1976, App. B!. lbcunents\nobtained from the State&#39;s Attorney General  Itan 9 Eran MPD\nMiscellaneous Records! show that on the evening of April 4,\n1968, at the time Dr. King was shot, there were nine tactical\nunits in service at various locations as follows:\nTact:I,h:i.t No. St:-leer Imatims\n6\nB\n99\n10\nll\n12\n13\n17\n18\nIhcxms and North Parkway\nJackson and Watkins\n-1\nChelsea and Watkins\nthin and Butler\nGeorgia and orzems\n-mg; and Latham\nBellev",
+              "start_page": 45,
+              "end_page": 47,
+              "score": 0.2768
+            }
+          ]
+        },
+        {
+          "statement": "No clear evidence is found regarding the ultimate outcome of the report or the official explanation for the detailing of these individuals.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c2",
+              "doc_id": "mkl1a",
+              "text": "y rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -I\u0018-Q. \u0018R.-3+ -=\"-\n\u0018R2...\n=3f\u00a7%\n92\n\"A Ju\u00a7\u001c-\n\u0001 \u0018\u00a31 \u0018I1\nIII!\n1\u0018\n11&#39;\nnaporcr cm\u0018 um nr-:1=Am:-1n~rr cs ausrzcs\nTASKFORCB&#39;1\u00180REVI!=HIHEFBIM92RI&#39;IN1UI1-\u00a3EZRKDiG,J&#39;R.,\n, SEX2URI&#39;I&#39;Y AND ASSPESJZNATICN mvzsnsnrzcns\nI\n\u0019r 1.\n\u0018-15\n;_.-92 .____,_ _ ___ ____ __\nJanuaxy 11\u00a2 1977\n\nW\nTABLE OF CDNTDTS\nlN1\u0018RODUCI\u0018ICN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nA. The Mission of the Task Force . . . . . . . . . . . . . . . . . ...1. The . . . . . . . . . . . . . . . . . . . . . . ...The Attorney Gmei-al&#39;s Directive . . . . . . . . . .Review up to April 26, 1976 . . . . . . . . . . . . . . . .Task Force and its Method of Review . . . . . . . .. .\nTHE ASSASSINATIQ1 INVEBTIGATIQI . . . . . . . . . . . . . . . . . . .. .A. Events Surrounding April 4, 1968 . . . . . . . . . . . . . . ...1. Poor Peoples Campaign . . . . . . . . . . . . . . . . . . . . . . .. .\n2. Memphis Sanitation Worker&#39;s Strike . . . . . . . . . ...3. Dr. King&#39;s Activities on April 4, 1968 . . . . . ...4. FBI Intelligence and local Police\n&#39; Activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...\na. FBI Informants . . . . . . . . . . . . . . . . . . . . . . . . ...\nb. MPD Inf:i.ltration of Invaders . . . . . . . . . . . .. .c. MPD S",
+              "start_page": 5,
+              "end_page": 7,
+              "score": 0.3211
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.3004
+            },
+            {
+              "chunk_id": "mkl1a_c34",
+              "doc_id": "mkl1a",
+              "text": "nrdarad him tn rnnn-rr rn \u0018I-\u0018ire sgagign \u0002gi 31__- we _ -- w-__-ww -v__ \u0014- |_\u0014rw--e I-w -\u0014--e\non the mrning of April lsth rather than Fire Station No. 2.\nNewsun claims that Fire Station No. 31 was ave:-strength at\nthe time and his detail madehis company short. I-brewer.\nhe says he never has received a satisfactory explanation\nwhy he was detailed. However, he did say that Lt. Barnett\nat one time told him he was detailed at the request of the\npolice.  Interview of Floyd E. Newsun, July 8, 1976,\nAPP- B-! &#39;\nY__-\u0018-.-.J__\u00a2_ -g \u0014,__A- -_J -ea.-\u0018-.\u0018_.e- -__._92_-a.-q J A-L- 92IET92 L-.-\u0018JIILCIVJ-Ewb UL pd-5; ERG PIESE.-IL  \u00a7 D1 L-fl: PRU [EVE\nfailed to disclose the ihdividual who initiated the order or\nthe reason for detailing Wallace and Ne-wsun. According to\nformer Lt. Jack Smith, he received a telephone call between\n3:O0p.m. and 5:O0p.m. on April 3, 1968, from either Captain\nJames T. Baity or former Assistant Chief Arthur J. Rivaltoh\nin the perscnnel department specifically requesting that\nNewsun be detailed. No reason was given for the detail.\nSmith said he immediately called Newsun, but Newsun was not\n-34-\n\nlune. Therefore, Smith left a message for Newsun to call\nthe fire staticm. Newsun called about l0:30p.m. and \u0001nith\nadvised him of the detail  Intervied of Jack \u0001nith, dated\nSeptember 27, l976!.\nV Wallace&#39;s ommanding officer, then Captain R.&#39;1\u0018.\nJolmson, likewise stated that he received a telephone\ncall frcm someone in the personnel department requesting\nhim to detail Wallace. However, Johnson has no present\nrecollection of who the individual was that made the\nr",
+              "start_page": 43,
+              "end_page": 44,
+              "score": 0.2849
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Supporting Evidence",
+      "raw_text": "The investigation into the murder of Martin Luther King Jr. involved a thorough review of various files and records [1, pp.19-21]. The FBI examined files from multiple field offices, including those in Memphis, Atlanta, and Los Angeles, and xeroxed pertinent documents for review in Washington [1, pp.19-21]. The Bureau also scanned newspaper clipping files maintained by the Department and its field offices [1, pp.19-21]. In terms of papers examined, more than 200,000 entries were reviewed [1, pp.19-21]. \n\nThe investigative emphasis shifted from following James Earl Ray's trail to identifying him, with the Bureau initiating a comparative search of latent fingerprints believed to be Ray's [2, pp.67-69]. This effort eventually paid off when a fingerprint comparison was made with James Earl Ray's fingerprint card [2, pp.67-69]. \n\nThe task force reviewed various documents, including a map showing the location of tactical units, a diagram of the crime scene, and an autopsy report [3, pp.8-10]. The team also conducted over 30 interviews, which were helpful in supplementing the results of interviews done during the murder investigation [6, pp.22-23]. \n\nThe task force is satisfied that the FBI did a credible and thorough job in attempting to identify any possible conspiracy or persons involved in the murder [4, pp.72-73]. The Bureau immediately interviewed sources of allegations and attempted to identify and interview alleged participants [4, pp.72-73]. However, the evidence does not provide a comprehensive list of all the files and records reviewed or all the interviews conducted. No clear evidence was found regarding the specific conclusions drawn from the reviewed files and records, beyond the satisfaction with the FBI's efforts [4, pp.72-73].",
+      "claims": [
+        {
+          "statement": "The investigation into the murder of Martin Luther King Jr.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            },
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c5",
+              "doc_id": "mkl1a",
+              "text": "IIII.\nEiulo u 0it No. Descrigicn\nMap showing location of Tact Units\nDiagmm of Crime scene.\nAutopsy Report\nJames Earl Ray, some known\nelcpmditures: April 23, 1967 to\nJ\u0018-I&#39;\u00a3 8|\n5 Jarres Earl Ray, known inccrne:\nApril 23. 1967 to June 8. 1968.\n6 Reading Bibliography .\n7 Memo frcm Scatterday to Ibsen,\nMay 22.. 1961.\nii\n\nV. AppendixA  cI:1t&#39;d] .-..................................\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\nAppend.i.xB-InterviewMenr:>randa . . . . . . . . . ...........\n92\nI&#39;92n::r-r-\u0018in-I-irn\n.....,...-=.......\nht-zm frcrn Sullivan tn Behrnnt,\nAugust 30, 1963.\nMemo frcm Baungardner to Sullivan,\nSeptarber 16. 1963\nMemo for the Director frrn Tolsrn,\nSepterrber 18, 1963\nMam from Sullivan to Behrnnt,\nSeptember 25, 1963\nClassifier} {Deleted}\nMemo frcrn Behront to Tolson,\nOctober 17, 1973\nLetter from Martin Luther King, Jr.\nTask Force to James Earl Ray,\nDecanber 15, 1976 -\nLetter frcm James Earl Ray to\nJames H. resar, Decarber 20, 1976\nTranscript of Plea Hearing\nClassified ifaeletedi\nClassified  Deleted!\n Deleted!\nPi\n165\n167\n169\n170\nl?5\n176\n177\n178\n19!;\n200\n201\n\n1\u0018.\nI.  m\nA.  Mission  Task 1-\u0018orgce\n1. \u0018Hie Probl &#39;\n h November 1, 1975, William C. Sullivm, fonmr\nAssistant Director, Domestic Intelligence Division,\nFemal Bureau of Investigation, testified before the\nSenate Select Committee to Study Governmental Operations\nwith Respect to Intelligence Activities. He related that\n\u00a3r@ lete 1963 md e_on.t.is=.\u00a292.g =.nti.1. the assessi1:~.etion of\nDr. I\u0001rtinliztl-aerKing, Jr., Ringwas the target ofan\nintensive carrpaigl by the F.B.I. to neutralize him as an\neffective civil I\u0018",
+              "start_page": 8,
+              "end_page": 10,
+              "score": 0.277
+            }
+          ]
+        },
+        {
+          "statement": "involved a thorough review of various files and records [1, pp.19-21].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            },
+            {
+              "chunk_id": "mkl1a_c58",
+              "doc_id": "mkl1a",
+              "text": ", the tasll force\nis satisfied that the FBI did a credible and thoroueh7 *7 7 &#39;7\u0014\u0014_\u0014\u001c_&#39; &#39;7\" i&#39;i7\"_T\"\njob in attempting to identify any possible conspiracy\nor persons who could have been involved in the mrder.\nIn each of the allegations received, the Bureau immediately\ninterviewed the person who was the source of the allegation\nwhere this was possible  i.e. where the source was not\nmonymus!. In situations where the complaint was not an\nhoax the Bureau then attazpted immediately to\nidentify the alleged participants and interview them.\nWhere there was not a sa.$\u00a3actory e-_x_plan.at2n to dispel\nthe allegation concerning such matters as whereabouts or\nassociations, the Bureau thm would check f1.n&#39;tha&#39;. Ihis\ndoes not mean that every allegation was pursued to the\nultimate degree. Judgment based on experience dictated\nmany of the decisions.\nIhese judgrents were also tempered by a critical\nfactor.  fifteen days after the murder, the HI\nwas convinced that Galt and Ray were the same person,\nthat this  purchased the rifle, rented\nroom across from the lorraine Motel, and fired the shot\nthat killed Dr. King. While there were many other people\n-63-\n\nwhowere antagonistic toward Dr. King and\nhad qaparently discussed killing him, any successful\nconspiracywouldhave tohave irrvolvedhybasedcnthe\nevidence at hmd. In all the years following the assas~\nsination, the irwatigation has failed to reveal my\nconnection between any alleged con.spirator s! and James\nEarl Ray including those alleged by Ray hitrself. lacked,\ntile  ep -- _ -_- \u0018- 4. nuw --,-5 Q11-n-.5:a\ntotally alone",
+              "start_page": 72,
+              "end_page": 73,
+              "score": 0.2741
+            },
+            {
+              "chunk_id": "mkl1a_c17",
+              "doc_id": "mkl1a",
+              "text": "ctatenrmts of James Earl Ray - which was used to buttress\nthe reconstructicn of the \u0001ects of the mnrdermd of the\n\u0018I-\u0018RT in-user\u0018! cn\u0001rn . _Q-1 -I&#39;hl i-I\nSlime 30 intervi.ews were ccnducted, principally in\nthe assassination phase of the task force study. They were\nhelpful in supplementing the results of interviews done\nduring the mrder imrestigaticn.\nD.1:r:I.ng the review of the Phxphis Field Office files,\nm on-site inspection of the crime scene was conducted and\nthe exhibits in the office of the Clerk of the County Court\nfor Shelby County, Tennessee, were e.xan::Lned.\n-13-\n\n3\n1\n11. mt ASSAS\u00a7_INATICN\nA- I:-Events  APIE} 4._1968\n1. 1he_Poor Peop1e&#39;s_C_anpaiQ\nTo understand the movements of Dr. King during this\ncritical period, it is necessary to brie\u0002y discuss the\nPoor People&#39;s Campaign  PDCAM! , originally called the\nWashington Spring Project in which he and the SCLC were involved\nPCOXM was scheduled to begin the first week of April 1968,\nand involved recruiting scme 3.000 poor unemployed blacks\nfran jl6 localities in the United States for the purpose of\n-\ngoing to Washingtcn, D.C. , and petitioning the goverrmmt to\nimprove their ecornnic status  HQ 157-8428-51!.\nTheplanwas to camp on tl&#39;1eWashingtmPbrn.ment or\nLincoln Memorial grounds  HQ 157-8428-132!. During the first\nand second weeks, demands would be made of congressmen and\nheads of departments, such as the Secretary of labor. If the\ndanands were not met, nonviolent danonstrations were to be\nconducted  HQ 157-8426--109!.\nDr. King&#39;s planned travel schedule for February and\nMarch included trips to 9 ma",
+              "start_page": 22,
+              "end_page": 23,
+              "score": 0.268
+            }
+          ]
+        },
+        {
+          "statement": "The FBI examined files from multiple field offices, including those in Memphis, Atlanta, and Los Angeles, and xeroxed pertinent documents for review in Washington [1, pp.19-21].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            },
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c58",
+              "doc_id": "mkl1a",
+              "text": ", the tasll force\nis satisfied that the FBI did a credible and thoroueh7 *7 7 &#39;7\u0014\u0014_\u0014\u001c_&#39; &#39;7\" i&#39;i7\"_T\"\njob in attempting to identify any possible conspiracy\nor persons who could have been involved in the mrder.\nIn each of the allegations received, the Bureau immediately\ninterviewed the person who was the source of the allegation\nwhere this was possible  i.e. where the source was not\nmonymus!. In situations where the complaint was not an\nhoax the Bureau then attazpted immediately to\nidentify the alleged participants and interview them.\nWhere there was not a sa.$\u00a3actory e-_x_plan.at2n to dispel\nthe allegation concerning such matters as whereabouts or\nassociations, the Bureau thm would check f1.n&#39;tha&#39;. Ihis\ndoes not mean that every allegation was pursued to the\nultimate degree. Judgment based on experience dictated\nmany of the decisions.\nIhese judgrents were also tempered by a critical\nfactor.  fifteen days after the murder, the HI\nwas convinced that Galt and Ray were the same person,\nthat this  purchased the rifle, rented\nroom across from the lorraine Motel, and fired the shot\nthat killed Dr. King. While there were many other people\n-63-\n\nwhowere antagonistic toward Dr. King and\nhad qaparently discussed killing him, any successful\nconspiracywouldhave tohave irrvolvedhybasedcnthe\nevidence at hmd. In all the years following the assas~\nsination, the irwatigation has failed to reveal my\nconnection between any alleged con.spirator s! and James\nEarl Ray including those alleged by Ray hitrself. lacked,\ntile  ep -- _ -_- \u0018- 4. nuw --,-5 Q11-n-.5:a\ntotally alone",
+              "start_page": 72,
+              "end_page": 73,
+              "score": 0.2741
+            }
+          ]
+        },
+        {
+          "statement": "The Bureau also scanned newspaper clipping files maintained by the Department and its field offices [1, pp.19-21].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            },
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c5",
+              "doc_id": "mkl1a",
+              "text": "IIII.\nEiulo u 0it No. Descrigicn\nMap showing location of Tact Units\nDiagmm of Crime scene.\nAutopsy Report\nJames Earl Ray, some known\nelcpmditures: April 23, 1967 to\nJ\u0018-I&#39;\u00a3 8|\n5 Jarres Earl Ray, known inccrne:\nApril 23. 1967 to June 8. 1968.\n6 Reading Bibliography .\n7 Memo frcm Scatterday to Ibsen,\nMay 22.. 1961.\nii\n\nV. AppendixA  cI:1t&#39;d] .-..................................\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\nAppend.i.xB-InterviewMenr:>randa . . . . . . . . . ...........\n92\nI&#39;92n::r-r-\u0018in-I-irn\n.....,...-=.......\nht-zm frcrn Sullivan tn Behrnnt,\nAugust 30, 1963.\nMemo frcm Baungardner to Sullivan,\nSeptarber 16. 1963\nMemo for the Director frrn Tolsrn,\nSepterrber 18, 1963\nMam from Sullivan to Behrnnt,\nSeptember 25, 1963\nClassifier} {Deleted}\nMemo frcrn Behront to Tolson,\nOctober 17, 1973\nLetter from Martin Luther King, Jr.\nTask Force to James Earl Ray,\nDecanber 15, 1976 -\nLetter frcm James Earl Ray to\nJames H. resar, Decarber 20, 1976\nTranscript of Plea Hearing\nClassified ifaeletedi\nClassified  Deleted!\n Deleted!\nPi\n165\n167\n169\n170\nl?5\n176\n177\n178\n19!;\n200\n201\n\n1\u0018.\nI.  m\nA.  Mission  Task 1-\u0018orgce\n1. \u0018Hie Probl &#39;\n h November 1, 1975, William C. Sullivm, fonmr\nAssistant Director, Domestic Intelligence Division,\nFemal Bureau of Investigation, testified before the\nSenate Select Committee to Study Governmental Operations\nwith Respect to Intelligence Activities. He related that\n\u00a3r@ lete 1963 md e_on.t.is=.\u00a292.g =.nti.1. the assessi1:~.etion of\nDr. I\u0001rtinliztl-aerKing, Jr., Ringwas the target ofan\nintensive carrpaigl by the F.B.I. to neutralize him as an\neffective civil I\u0018",
+              "start_page": 8,
+              "end_page": 10,
+              "score": 0.277
+            }
+          ]
+        },
+        {
+          "statement": "In terms of papers examined, more than 200,000 entries were reviewed [1, pp.19-21].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            }
+          ]
+        },
+        {
+          "statement": "The investigative emphasis shifted from following James Earl Ray's trail to identifying him, with the Bureau initiating a comparative search of latent fingerprints believed to be Ray's [2, pp.67-69].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            },
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c5",
+              "doc_id": "mkl1a",
+              "text": "IIII.\nEiulo u 0it No. Descrigicn\nMap showing location of Tact Units\nDiagmm of Crime scene.\nAutopsy Report\nJames Earl Ray, some known\nelcpmditures: April 23, 1967 to\nJ\u0018-I&#39;\u00a3 8|\n5 Jarres Earl Ray, known inccrne:\nApril 23. 1967 to June 8. 1968.\n6 Reading Bibliography .\n7 Memo frcm Scatterday to Ibsen,\nMay 22.. 1961.\nii\n\nV. AppendixA  cI:1t&#39;d] .-..................................\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\nAppend.i.xB-InterviewMenr:>randa . . . . . . . . . ...........\n92\nI&#39;92n::r-r-\u0018in-I-irn\n.....,...-=.......\nht-zm frcrn Sullivan tn Behrnnt,\nAugust 30, 1963.\nMemo frcm Baungardner to Sullivan,\nSeptarber 16. 1963\nMemo for the Director frrn Tolsrn,\nSepterrber 18, 1963\nMam from Sullivan to Behrnnt,\nSeptember 25, 1963\nClassifier} {Deleted}\nMemo frcrn Behront to Tolson,\nOctober 17, 1973\nLetter from Martin Luther King, Jr.\nTask Force to James Earl Ray,\nDecanber 15, 1976 -\nLetter frcm James Earl Ray to\nJames H. resar, Decarber 20, 1976\nTranscript of Plea Hearing\nClassified ifaeletedi\nClassified  Deleted!\n Deleted!\nPi\n165\n167\n169\n170\nl?5\n176\n177\n178\n19!;\n200\n201\n\n1\u0018.\nI.  m\nA.  Mission  Task 1-\u0018orgce\n1. \u0018Hie Probl &#39;\n h November 1, 1975, William C. Sullivm, fonmr\nAssistant Director, Domestic Intelligence Division,\nFemal Bureau of Investigation, testified before the\nSenate Select Committee to Study Governmental Operations\nwith Respect to Intelligence Activities. He related that\n\u00a3r@ lete 1963 md e_on.t.is=.\u00a292.g =.nti.1. the assessi1:~.etion of\nDr. I\u0001rtinliztl-aerKing, Jr., Ringwas the target ofan\nintensive carrpaigl by the F.B.I. to neutralize him as an\neffective civil I\u0018",
+              "start_page": 8,
+              "end_page": 10,
+              "score": 0.277
+            }
+          ]
+        },
+        {
+          "statement": "This effort eventually paid off when a fingerprint comparison was made with James Earl Ray's fingerprint card [2, pp.67-69].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            }
+          ]
+        },
+        {
+          "statement": "The task force reviewed various documents, including a map showing the location of tactical units, a diagram of the crime scene, and an autopsy report [3, pp.8-10].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c5",
+              "doc_id": "mkl1a",
+              "text": "IIII.\nEiulo u 0it No. Descrigicn\nMap showing location of Tact Units\nDiagmm of Crime scene.\nAutopsy Report\nJames Earl Ray, some known\nelcpmditures: April 23, 1967 to\nJ\u0018-I&#39;\u00a3 8|\n5 Jarres Earl Ray, known inccrne:\nApril 23. 1967 to June 8. 1968.\n6 Reading Bibliography .\n7 Memo frcm Scatterday to Ibsen,\nMay 22.. 1961.\nii\n\nV. AppendixA  cI:1t&#39;d] .-..................................\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\nAppend.i.xB-InterviewMenr:>randa . . . . . . . . . ...........\n92\nI&#39;92n::r-r-\u0018in-I-irn\n.....,...-=.......\nht-zm frcrn Sullivan tn Behrnnt,\nAugust 30, 1963.\nMemo frcm Baungardner to Sullivan,\nSeptarber 16. 1963\nMemo for the Director frrn Tolsrn,\nSepterrber 18, 1963\nMam from Sullivan to Behrnnt,\nSeptember 25, 1963\nClassifier} {Deleted}\nMemo frcrn Behront to Tolson,\nOctober 17, 1973\nLetter from Martin Luther King, Jr.\nTask Force to James Earl Ray,\nDecanber 15, 1976 -\nLetter frcm James Earl Ray to\nJames H. resar, Decarber 20, 1976\nTranscript of Plea Hearing\nClassified ifaeletedi\nClassified  Deleted!\n Deleted!\nPi\n165\n167\n169\n170\nl?5\n176\n177\n178\n19!;\n200\n201\n\n1\u0018.\nI.  m\nA.  Mission  Task 1-\u0018orgce\n1. \u0018Hie Probl &#39;\n h November 1, 1975, William C. Sullivm, fonmr\nAssistant Director, Domestic Intelligence Division,\nFemal Bureau of Investigation, testified before the\nSenate Select Committee to Study Governmental Operations\nwith Respect to Intelligence Activities. He related that\n\u00a3r@ lete 1963 md e_on.t.is=.\u00a292.g =.nti.1. the assessi1:~.etion of\nDr. I\u0001rtinliztl-aerKing, Jr., Ringwas the target ofan\nintensive carrpaigl by the F.B.I. to neutralize him as an\neffective civil I\u0018",
+              "start_page": 8,
+              "end_page": 10,
+              "score": 0.277
+            },
+            {
+              "chunk_id": "mkl1a_c58",
+              "doc_id": "mkl1a",
+              "text": ", the tasll force\nis satisfied that the FBI did a credible and thoroueh7 *7 7 &#39;7\u0014\u0014_\u0014\u001c_&#39; &#39;7\" i&#39;i7\"_T\"\njob in attempting to identify any possible conspiracy\nor persons who could have been involved in the mrder.\nIn each of the allegations received, the Bureau immediately\ninterviewed the person who was the source of the allegation\nwhere this was possible  i.e. where the source was not\nmonymus!. In situations where the complaint was not an\nhoax the Bureau then attazpted immediately to\nidentify the alleged participants and interview them.\nWhere there was not a sa.$\u00a3actory e-_x_plan.at2n to dispel\nthe allegation concerning such matters as whereabouts or\nassociations, the Bureau thm would check f1.n&#39;tha&#39;. Ihis\ndoes not mean that every allegation was pursued to the\nultimate degree. Judgment based on experience dictated\nmany of the decisions.\nIhese judgrents were also tempered by a critical\nfactor.  fifteen days after the murder, the HI\nwas convinced that Galt and Ray were the same person,\nthat this  purchased the rifle, rented\nroom across from the lorraine Motel, and fired the shot\nthat killed Dr. King. While there were many other people\n-63-\n\nwhowere antagonistic toward Dr. King and\nhad qaparently discussed killing him, any successful\nconspiracywouldhave tohave irrvolvedhybasedcnthe\nevidence at hmd. In all the years following the assas~\nsination, the irwatigation has failed to reveal my\nconnection between any alleged con.spirator s! and James\nEarl Ray including those alleged by Ray hitrself. lacked,\ntile  ep -- _ -_- \u0018- 4. nuw --,-5 Q11-n-.5:a\ntotally alone",
+              "start_page": 72,
+              "end_page": 73,
+              "score": 0.2741
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.2682
+            }
+          ]
+        },
+        {
+          "statement": "The team also conducted over 30 interviews, which were helpful in supplementing the results of interviews done during the murder investigation [6, pp.22-23].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            },
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c5",
+              "doc_id": "mkl1a",
+              "text": "IIII.\nEiulo u 0it No. Descrigicn\nMap showing location of Tact Units\nDiagmm of Crime scene.\nAutopsy Report\nJames Earl Ray, some known\nelcpmditures: April 23, 1967 to\nJ\u0018-I&#39;\u00a3 8|\n5 Jarres Earl Ray, known inccrne:\nApril 23. 1967 to June 8. 1968.\n6 Reading Bibliography .\n7 Memo frcm Scatterday to Ibsen,\nMay 22.. 1961.\nii\n\nV. AppendixA  cI:1t&#39;d] .-..................................\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\nAppend.i.xB-InterviewMenr:>randa . . . . . . . . . ...........\n92\nI&#39;92n::r-r-\u0018in-I-irn\n.....,...-=.......\nht-zm frcrn Sullivan tn Behrnnt,\nAugust 30, 1963.\nMemo frcm Baungardner to Sullivan,\nSeptarber 16. 1963\nMemo for the Director frrn Tolsrn,\nSepterrber 18, 1963\nMam from Sullivan to Behrnnt,\nSeptember 25, 1963\nClassifier} {Deleted}\nMemo frcrn Behront to Tolson,\nOctober 17, 1973\nLetter from Martin Luther King, Jr.\nTask Force to James Earl Ray,\nDecanber 15, 1976 -\nLetter frcm James Earl Ray to\nJames H. resar, Decarber 20, 1976\nTranscript of Plea Hearing\nClassified ifaeletedi\nClassified  Deleted!\n Deleted!\nPi\n165\n167\n169\n170\nl?5\n176\n177\n178\n19!;\n200\n201\n\n1\u0018.\nI.  m\nA.  Mission  Task 1-\u0018orgce\n1. \u0018Hie Probl &#39;\n h November 1, 1975, William C. Sullivm, fonmr\nAssistant Director, Domestic Intelligence Division,\nFemal Bureau of Investigation, testified before the\nSenate Select Committee to Study Governmental Operations\nwith Respect to Intelligence Activities. He related that\n\u00a3r@ lete 1963 md e_on.t.is=.\u00a292.g =.nti.1. the assessi1:~.etion of\nDr. I\u0001rtinliztl-aerKing, Jr., Ringwas the target ofan\nintensive carrpaigl by the F.B.I. to neutralize him as an\neffective civil I\u0018",
+              "start_page": 8,
+              "end_page": 10,
+              "score": 0.277
+            }
+          ]
+        },
+        {
+          "statement": "The task force is satisfied that the FBI did a credible and thorough job in attempting to identify any possible conspiracy or persons involved in the murder [4, pp.72-73].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c58",
+              "doc_id": "mkl1a",
+              "text": ", the tasll force\nis satisfied that the FBI did a credible and thoroueh7 *7 7 &#39;7\u0014\u0014_\u0014\u001c_&#39; &#39;7\" i&#39;i7\"_T\"\njob in attempting to identify any possible conspiracy\nor persons who could have been involved in the mrder.\nIn each of the allegations received, the Bureau immediately\ninterviewed the person who was the source of the allegation\nwhere this was possible  i.e. where the source was not\nmonymus!. In situations where the complaint was not an\nhoax the Bureau then attazpted immediately to\nidentify the alleged participants and interview them.\nWhere there was not a sa.$\u00a3actory e-_x_plan.at2n to dispel\nthe allegation concerning such matters as whereabouts or\nassociations, the Bureau thm would check f1.n&#39;tha&#39;. Ihis\ndoes not mean that every allegation was pursued to the\nultimate degree. Judgment based on experience dictated\nmany of the decisions.\nIhese judgrents were also tempered by a critical\nfactor.  fifteen days after the murder, the HI\nwas convinced that Galt and Ray were the same person,\nthat this  purchased the rifle, rented\nroom across from the lorraine Motel, and fired the shot\nthat killed Dr. King. While there were many other people\n-63-\n\nwhowere antagonistic toward Dr. King and\nhad qaparently discussed killing him, any successful\nconspiracywouldhave tohave irrvolvedhybasedcnthe\nevidence at hmd. In all the years following the assas~\nsination, the irwatigation has failed to reveal my\nconnection between any alleged con.spirator s! and James\nEarl Ray including those alleged by Ray hitrself. lacked,\ntile  ep -- _ -_- \u0018- 4. nuw --,-5 Q11-n-.5:a\ntotally alone",
+              "start_page": 72,
+              "end_page": 73,
+              "score": 0.2741
+            },
+            {
+              "chunk_id": "mkl1a_c1",
+              "doc_id": "mkl1a",
+              "text": "' an report of this Office's Martin Luther King Task Force. : \u2018 Excisions were made the privacy rights of - 7 to protect sensitive FBI sources and methods, and to delete classified material. In addition, changes were made to correct factual errors which were in the L original version of the report, No decision has been made on whether this report a ; will be released to the public. .* ~ 42 aga a Ly \u2014 REC AY Jory - Jody N \\ == rg & _ 2 FEB oN fg a op 3 _ 2 Ss 3 ios SK i> if ' ~ ~ > cy 4 S5MAR 2197\" | MX Buy U.S, LapingseBomts-Regularly on the ayralt Saving at BET yer cae elie on st ee aa\n\n92-\u00a7 -_\n3\nH.\n-,\n\"=:_ v&#39; ..\"~ &#39; -\n, __ ,;V-_-.r,\",.!\n.~/. -\u0018:1\u0019, E-\u001c.:\":&#39; &#39;1\" T-&#39;\n&#39;:.\u0018F5.~ t-1\"\u00bb 5.1-\"&#39; - \u0018FE. __ _ &#39;. \u0018y_925_>,. \u00bb_--.._ 1,.\n-_q9292-&#39;.$.\u001892\u0018.=_1\u0001&#39;\u00bb. -_-111:\u0018\n1\n/f\nO\n\"\"\"\"\"\"\"\"\"\"\"&#39;-. 5&#39;. _\n.&#39;.92.R]\n-:=.-:3-:3\nsc\nI5\n/ * L.\nJ\"\ni\nr1 I\u0018 ._ -<- .,;1 1* ~ * , \u0018- \u0018.-.>\" 92..\nI 3,\u0019 -\ni V |\nJAN 31 1977\n&#39;-\nDirector\nFederal Bureau of Investigation\nMichael E. Shaheen, Jr., Counsel\nOffice of Professional Responsibility\nExcised Report on FBI[s Martin Luther King Investigations\nAttached is a copy of the excised version of thereport of this Office&#39;s Martin Luther King Task Force.Excisions were made to protect the privacy rights ofpersons, to protect sensitive FBI sources and methods,and to delete classified material: In addition, changeswere made to correct factual errors which were in theoriginal version of the report.\nNo decision has been made on whether this reportwill be released to the public.\n\n\"S\nW 3-\u0019 Kgg? ..\n.-\nI\n-1-.\n. Sf: -",
+              "start_page": 4,
+              "end_page": 6,
+              "score": 0.2682
+            }
+          ]
+        },
+        {
+          "statement": "The Bureau immediately interviewed sources of allegations and attempted to identify and interview alleged participants [4, pp.72-73].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c15",
+              "doc_id": "mkl1a",
+              "text": "ent files in\naddition to the FBI headquarters files and the Washington\nField Office files were located in Memphis, Atlanta,\nBaltimore, Charlotte, Birmingham,  Orleans, los Angeles\nSan Francisco, Kansas City, St. Innis\u0018, Omaha, Chicago,\nSpring\u0001eld  Ill.!, Milwaukee and New York. These were\nexamined in place by visits by task force personnel. The\nranainirg files were xeroxed and forwarded for review in\nWashington. Pertinent newspaper clipping files maintained\nby the Department and by the Bureau and its field offices\nwere scanned. I\nIn terms of papers examined, mre than 200,000\nentries, nnny with mmerous pages concerning both the\nnnrder investigation and the security investigation were\ncovered. &#39;I\u0018he five attorneys sitting together originally\n-10-\n\nand later, as the work progressed, Splitting up to\nperscnnel. considered separate sections of each file\nccxnpiling notes, carmenting m, or reading aloud, or\nnoting forreadingbyalloftheocxrmittee. itansof\nsignificance. Notes were taken, when pertinent items\nwere encountered, on a serial\u0014by-serial basis  \"serials\"\nbeing each separate document entry of one or more pages\n\n1\nfor accuracy against the tapes of those sur.-veillences.\nA canvass of other investigative agencies was made to\ndetermine whether their files re\u0002ected that intelligence\nor ommterintelligence requests had been made upon them\nby the FBI in relaticn to Dr. I<:I.ng_ -Ihis included tlm\nDefense Departnnit, the State Department, the U.S.\nInformatzim Agmcy, tlm C.I.A., the Secret Service, the\nPostal Inspection Service, the Internal Revenue Service&#39;s I\nIntelligence Div",
+              "start_page": 19,
+              "end_page": 21,
+              "score": 0.398
+            },
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c5",
+              "doc_id": "mkl1a",
+              "text": "IIII.\nEiulo u 0it No. Descrigicn\nMap showing location of Tact Units\nDiagmm of Crime scene.\nAutopsy Report\nJames Earl Ray, some known\nelcpmditures: April 23, 1967 to\nJ\u0018-I&#39;\u00a3 8|\n5 Jarres Earl Ray, known inccrne:\nApril 23. 1967 to June 8. 1968.\n6 Reading Bibliography .\n7 Memo frcm Scatterday to Ibsen,\nMay 22.. 1961.\nii\n\nV. AppendixA  cI:1t&#39;d] .-..................................\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\nAppend.i.xB-InterviewMenr:>randa . . . . . . . . . ...........\n92\nI&#39;92n::r-r-\u0018in-I-irn\n.....,...-=.......\nht-zm frcrn Sullivan tn Behrnnt,\nAugust 30, 1963.\nMemo frcm Baungardner to Sullivan,\nSeptarber 16. 1963\nMemo for the Director frrn Tolsrn,\nSepterrber 18, 1963\nMam from Sullivan to Behrnnt,\nSeptember 25, 1963\nClassifier} {Deleted}\nMemo frcrn Behront to Tolson,\nOctober 17, 1973\nLetter from Martin Luther King, Jr.\nTask Force to James Earl Ray,\nDecanber 15, 1976 -\nLetter frcm James Earl Ray to\nJames H. resar, Decarber 20, 1976\nTranscript of Plea Hearing\nClassified ifaeletedi\nClassified  Deleted!\n Deleted!\nPi\n165\n167\n169\n170\nl?5\n176\n177\n178\n19!;\n200\n201\n\n1\u0018.\nI.  m\nA.  Mission  Task 1-\u0018orgce\n1. \u0018Hie Probl &#39;\n h November 1, 1975, William C. Sullivm, fonmr\nAssistant Director, Domestic Intelligence Division,\nFemal Bureau of Investigation, testified before the\nSenate Select Committee to Study Governmental Operations\nwith Respect to Intelligence Activities. He related that\n\u00a3r@ lete 1963 md e_on.t.is=.\u00a292.g =.nti.1. the assessi1:~.etion of\nDr. I\u0001rtinliztl-aerKing, Jr., Ringwas the target ofan\nintensive carrpaigl by the F.B.I. to neutralize him as an\neffective civil I\u0018",
+              "start_page": 8,
+              "end_page": 10,
+              "score": 0.277
+            }
+          ]
+        },
+        {
+          "statement": "However, the evidence does not provide a comprehensive list of all the files and records reviewed or all the interviews conducted.",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c58",
+              "doc_id": "mkl1a",
+              "text": ", the tasll force\nis satisfied that the FBI did a credible and thoroueh7 *7 7 &#39;7\u0014\u0014_\u0014\u001c_&#39; &#39;7\" i&#39;i7\"_T\"\njob in attempting to identify any possible conspiracy\nor persons who could have been involved in the mrder.\nIn each of the allegations received, the Bureau immediately\ninterviewed the person who was the source of the allegation\nwhere this was possible  i.e. where the source was not\nmonymus!. In situations where the complaint was not an\nhoax the Bureau then attazpted immediately to\nidentify the alleged participants and interview them.\nWhere there was not a sa.$\u00a3actory e-_x_plan.at2n to dispel\nthe allegation concerning such matters as whereabouts or\nassociations, the Bureau thm would check f1.n&#39;tha&#39;. Ihis\ndoes not mean that every allegation was pursued to the\nultimate degree. Judgment based on experience dictated\nmany of the decisions.\nIhese judgrents were also tempered by a critical\nfactor.  fifteen days after the murder, the HI\nwas convinced that Galt and Ray were the same person,\nthat this  purchased the rifle, rented\nroom across from the lorraine Motel, and fired the shot\nthat killed Dr. King. While there were many other people\n-63-\n\nwhowere antagonistic toward Dr. King and\nhad qaparently discussed killing him, any successful\nconspiracywouldhave tohave irrvolvedhybasedcnthe\nevidence at hmd. In all the years following the assas~\nsination, the irwatigation has failed to reveal my\nconnection between any alleged con.spirator s! and James\nEarl Ray including those alleged by Ray hitrself. lacked,\ntile  ep -- _ -_- \u0018- 4. nuw --,-5 Q11-n-.5:a\ntotally alone",
+              "start_page": 72,
+              "end_page": 73,
+              "score": 0.2741
+            },
+            {
+              "chunk_id": "mkl1a_c17",
+              "doc_id": "mkl1a",
+              "text": "ctatenrmts of James Earl Ray - which was used to buttress\nthe reconstructicn of the \u0001ects of the mnrdermd of the\n\u0018I-\u0018RT in-user\u0018! cn\u0001rn . _Q-1 -I&#39;hl i-I\nSlime 30 intervi.ews were ccnducted, principally in\nthe assassination phase of the task force study. They were\nhelpful in supplementing the results of interviews done\nduring the mrder imrestigaticn.\nD.1:r:I.ng the review of the Phxphis Field Office files,\nm on-site inspection of the crime scene was conducted and\nthe exhibits in the office of the Clerk of the County Court\nfor Shelby County, Tennessee, were e.xan::Lned.\n-13-\n\n3\n1\n11. mt ASSAS\u00a7_INATICN\nA- I:-Events  APIE} 4._1968\n1. 1he_Poor Peop1e&#39;s_C_anpaiQ\nTo understand the movements of Dr. King during this\ncritical period, it is necessary to brie\u0002y discuss the\nPoor People&#39;s Campaign  PDCAM! , originally called the\nWashington Spring Project in which he and the SCLC were involved\nPCOXM was scheduled to begin the first week of April 1968,\nand involved recruiting scme 3.000 poor unemployed blacks\nfran jl6 localities in the United States for the purpose of\n-\ngoing to Washingtcn, D.C. , and petitioning the goverrmmt to\nimprove their ecornnic status  HQ 157-8428-51!.\nTheplanwas to camp on tl&#39;1eWashingtmPbrn.ment or\nLincoln Memorial grounds  HQ 157-8428-132!. During the first\nand second weeks, demands would be made of congressmen and\nheads of departments, such as the Secretary of labor. If the\ndanands were not met, nonviolent danonstrations were to be\nconducted  HQ 157-8426--109!.\nDr. King&#39;s planned travel schedule for February and\nMarch included trips to 9 ma",
+              "start_page": 22,
+              "end_page": 23,
+              "score": 0.268
+            }
+          ]
+        },
+        {
+          "statement": "No clear evidence was found regarding the specific conclusions drawn from the reviewed files and records, beyond the satisfaction with the FBI's efforts [4, pp.72-73].",
+          "evidence": [
+            {
+              "chunk_id": "mkl1a_c55",
+              "doc_id": "mkl1a",
+              "text": "Bureau becarre worried because with each passing\nhour Ga1t&#39;s chances of avoiding capture became better and\nbetter. Therefore, the investigative emphasis shifted frcm\nfollowing Gale&#39;s trail. to identifying Galt. In an effort\nto acccuplish this the Bureau initiated a comparative search\nof three identical latent fingerprints believed to be Galt&#39;s\n\u001cll: L1-|l%\u00a2LPLJnlIL *@\u00a7 lu=\u0018JJV=L=92J\nthebinocu1a.rs;anda third frcmthemap ofAt1anta found\n\nQ\nI\nibwever, the speculation paid off when on April 19, 1968,\n1 E Q 1 I Q! I Q I 1! __j____\nJares Lari Bay&#39;s nngerprmi: card cmpareo msnucairy\u0018\n sq an-3sae1-1515!.\n\nI.\nAttorney General dated May 13, 1968 in which he explains\nthat extensive investigation has not resulted  any new\ndevelopments beyond Atlanta, April 5. Therefore, the\nDirector requested authorization for telephone and microphone surveillance on Pay family members. \u0018me request,\nhowever, was never acted upon  T-YO 44--33361-3509! .\n\u0007! Pas;-Err. Search. From an interview with a former\noellmate of Ray&#39;s at Missouri State Prison it was learned\nthat Bay appreciated the ease with which a perscr. living\nin Canada could obtain a false passport  I&#39;D 44-38861-3889! .1\nThough it is not clear that the cel1mate&#39;s ocmrents precipitated a search of Canadian passports issued since Ray&#39;s\nApril 23, 1967 escape, it is knom that on the request of\ntheFBI Legatintianada suchasearchwas oonductedby the\nRoyal Canadian ivbunted Polioe. A passport search was also\nconducted in Mexico an the United States  HQ 44-38861-4445!.\n&#39;Ihough the search went through a staggering numb",
+              "start_page": 67,
+              "end_page": 69,
+              "score": 0.2789
+            },
+            {
+              "chunk_id": "mkl1a_c58",
+              "doc_id": "mkl1a",
+              "text": ", the tasll force\nis satisfied that the FBI did a credible and thoroueh7 *7 7 &#39;7\u0014\u0014_\u0014\u001c_&#39; &#39;7\" i&#39;i7\"_T\"\njob in attempting to identify any possible conspiracy\nor persons who could have been involved in the mrder.\nIn each of the allegations received, the Bureau immediately\ninterviewed the person who was the source of the allegation\nwhere this was possible  i.e. where the source was not\nmonymus!. In situations where the complaint was not an\nhoax the Bureau then attazpted immediately to\nidentify the alleged participants and interview them.\nWhere there was not a sa.$\u00a3actory e-_x_plan.at2n to dispel\nthe allegation concerning such matters as whereabouts or\nassociations, the Bureau thm would check f1.n&#39;tha&#39;. Ihis\ndoes not mean that every allegation was pursued to the\nultimate degree. Judgment based on experience dictated\nmany of the decisions.\nIhese judgrents were also tempered by a critical\nfactor.  fifteen days after the murder, the HI\nwas convinced that Galt and Ray were the same person,\nthat this  purchased the rifle, rented\nroom across from the lorraine Motel, and fired the shot\nthat killed Dr. King. While there were many other people\n-63-\n\nwhowere antagonistic toward Dr. King and\nhad qaparently discussed killing him, any successful\nconspiracywouldhave tohave irrvolvedhybasedcnthe\nevidence at hmd. In all the years following the assas~\nsination, the irwatigation has failed to reveal my\nconnection between any alleged con.spirator s! and James\nEarl Ray including those alleged by Ray hitrself. lacked,\ntile  ep -- _ -_- \u0018- 4. nuw --,-5 Q11-n-.5:a\ntotally alone",
+              "start_page": 72,
+              "end_page": 73,
+              "score": 0.2741
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
