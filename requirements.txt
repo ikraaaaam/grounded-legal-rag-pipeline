@@ -1,0 +1,31 @@
+# Legal AI Pipeline — Requirements
+# Install with:  pip install -r requirements.txt
+
+# ── Core document processing ──────────────────────────────────────────────
+pypdf>=4.0.0            # Native PDF text extraction
+pytesseract>=0.3.10     # Tesseract OCR wrapper (Tesseract must be installed separately)
+Pillow>=10.0.0          # Image handling for OCR
+
+# ── Embeddings & Vector Search ────────────────────────────────────────────
+sentence-transformers>=2.7.0   # all-MiniLM-L6-v2 embeddings
+faiss-cpu>=1.8.0               # FAISS vector index (CPU build)
+numpy>=1.26.0
+
+# ── LLM ───────────────────────────────────────────────────────────────────
+groq>=0.11.0            # Groq API client (Llama 3)
+
+# ── API server (optional — for api.py) ───────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# ── Utilities ─────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0    # .env file support for API key
+
+# ── Sample PDF generation (optional — for create_sample_pdf.py) ──────────
+reportlab>=4.1.0        # Preferred PDF writer
+# fpdf2>=2.7.9          # Fallback if reportlab unavailable
+
+# ── Optional: PyMuPDF for production-grade rasterization ─────────────────
+# PyMuPDF>=1.24.0       # Much better OCR pre-processing; replaces PIL fallback
+#                       # Uncomment if Tesseract OCR on scanned pages is needed

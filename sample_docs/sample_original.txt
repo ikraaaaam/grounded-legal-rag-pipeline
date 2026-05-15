@@ -1,0 +1,5 @@
+The contract specifies a fixed monthly payment of USD 45,000.
+Unpaid invoices after 30 days will have interest added at 1.5% per month.
+The agreement can be ended by either party with 30 days notice.
+The liability of the consultant is capped at recent fees paid.
+Confidentiality rules remain in force for 5 years after the agreement ends.

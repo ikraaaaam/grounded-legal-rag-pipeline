@@ -1,0 +1,44 @@
+{
+  "doc_ids": [
+    "sample_contract"
+  ],
+  "model": "claude-sonnet-4-5",
+  "version": 1,
+  "patterns_applied": [],
+  "sections": [
+    {
+      "title": "Summary",
+      "raw_text": "This memorandum analyses the Master Services and Non-Disclosure Agreement (MSA-2025-007) between Apex Holdings LLC (Client) and Meridian Consulting Group Inc. (Consultant), dated 15 January 2025. The Agreement governs advisory services for Client's proposed acquisition of Drayfield Technologies Ltd., with services running from February to July 2025. [sample_contract, p.1]",
+      "claims": [
+        {
+          "statement": "This memorandum analyses the Master Services and Non-Disclosure Agreement (MSA-2025-007).",
+          "evidence": [
+            {
+              "chunk_id": "sample_contract_c0",
+              "doc_id": "sample_contract",
+              "score": 0.912,
+              "start_page": 1,
+              "end_page": 1,
+              "text": "MASTER SERVICES AND NON-DISCLOSURE AGREEMENT..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Key Facts",
+      "raw_text": "\u2022 Contract Ref: MSA-2025-007, effective 15 January 2025. [sample_contract, p.1]\n\u2022 Fixed monthly retainer: USD 45,000. [sample_contract, p.1]\n\u2022 Service period: 1 February 2025 \u2013 31 July 2025. [sample_contract, p.1]\n\u2022 Liability cap: fees paid in the preceding 3 months. [sample_contract, p.2]\n\u2022 Confidentiality obligations survive for 5 years post-termination. [sample_contract, p.1]",
+      "claims": []
+    },
+    {
+      "title": "Potential Risks",
+      "raw_text": "1. Liability exposure is limited to three months of fees, which may be insufficient given the scale of the proposed acquisition. [sample_contract, p.2]\n2. The 30-day termination notice is short for a complex M&A advisory engagement. [sample_contract, p.2]\n3. No clear evidence found regarding data breach liability or cybersecurity obligations.",
+      "claims": []
+    },
+    {
+      "title": "Missing Information",
+      "raw_text": "\u2022 No clear evidence found of a dispute resolution timeline for arbitration proceedings.\n\u2022 The Agreement lacks explicit data protection / GDPR provisions.\n\u2022 Success fee or completion bonus mechanism not addressed.",
+      "claims": []
+    }
+  ]
+}

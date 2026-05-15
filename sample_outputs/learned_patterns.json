@@ -1,0 +1,38 @@
+[
+  {
+    "pattern_id": "pat_0001",
+    "type": "terminology",
+    "description": "Prefer 'retainer' over 'payment' for fixed monthly fees",
+    "from_text": "payment",
+    "to_text": "retainer",
+    "frequency": 3,
+    "examples": [
+      "edit_0001",
+      "edit_0002",
+      "edit_0003"
+    ]
+  },
+  {
+    "pattern_id": "pat_0002",
+    "type": "tone",
+    "description": "Use formal legal phrasing: 'shall' instead of 'will'",
+    "from_text": "will",
+    "to_text": "shall",
+    "frequency": 5,
+    "examples": [
+      "edit_0001",
+      "edit_0002"
+    ]
+  },
+  {
+    "pattern_id": "pat_0003",
+    "type": "structure",
+    "description": "Cite specific clause numbers when referencing contract provisions",
+    "from_text": "the agreement states",
+    "to_text": "Clause N.N provides that",
+    "frequency": 2,
+    "examples": [
+      "edit_0003"
+    ]
+  }
+]
