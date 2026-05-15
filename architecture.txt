@@ -34,7 +34,7 @@
   │        generator.py                 │
   │   ① Section-specific queries        │
   │   ② Evidence injected into prompt   │
-  │   ③ Claude generates grounded text  │
+  │   ③ LLM generates grounded text     │
   │   ④ Hallucination control:          │
   │      → "No clear evidence found"    │
   │        if retrieval is empty        │

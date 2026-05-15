@@ -35,7 +35,7 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI(
     title="Legal AI Pipeline API",
-    description="Grounded legal memo generation with FAISS retrieval, Claude drafting, and operator edit learning.",
+    description="Grounded legal memo generation with FAISS retrieval, Llama 3 drafting, and operator edit learning.",
     version="1.0.0",
 )
 
@@ -122,7 +122,7 @@ def retrieve_evidence(req: RetrieveRequest):
 @app.post("/feedback", summary="Record an operator edit")
 def submit_feedback(req: FeedbackRequest):
     """
-    Diffs original vs. edited draft, extracts reusable patterns via Claude,
+    Diffs original vs. edited draft, extracts reusable patterns via LLM,
     and persists them for future generation improvement.
     """
     return record_edit(

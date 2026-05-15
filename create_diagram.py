@@ -55,7 +55,7 @@ ASCII_DIAGRAM = """
   │        generator.py                 │
   │   ① Section-specific queries        │
   │   ② Evidence injected into prompt   │
-  │   ③ Claude generates grounded text  │
+  │   ③ LLM generates grounded text     │
   │   ④ Hallucination control:          │
   │      → "No clear evidence found"    │
   │        if retrieval is empty        │
@@ -173,7 +173,7 @@ def generate_png():
 
         box(ax, 1, 5.8, 8, 1.7, "generator.py -- Grounded Memo Generation",
             ["[1] Per-section retrieval queries", "[2] Evidence injected into prompt",
-             "[3] Claude writes grounded text", '[4] "No clear evidence found" if empty'], ORANGE)
+             "[3] LLM writes grounded text", '[4] "No clear evidence found" if empty'], ORANGE)
         arrow(ax, 5, 5.8, 5, 5.2, "MemoOutput")
 
         box(ax, 2, 4.4, 6, 0.7, "Operator Review", ["Human reads & edits draft"], GRAY)

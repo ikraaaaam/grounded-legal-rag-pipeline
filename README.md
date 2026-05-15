@@ -1,6 +1,6 @@
 # Legal AI Pipeline
 
-> **Grounded legal memo generation** from raw PDF documents — combining OCR extraction, dense retrieval, Claude-powered drafting, and a real operator-edit learning loop.
+> **Grounded legal memo generation** from raw PDF documents — combining OCR extraction, dense retrieval, Llama 3-powered drafting, and a real operator-edit learning loop.
 
 ---
 
@@ -51,7 +51,7 @@ See [`architecture.txt`](architecture.txt) for the detailed ASCII diagram, or ru
 
 This system enforces a **retrieval-constrained generation** policy:
 
-1. **Evidence mandatory** — Claude is given *only* retrieved passages as source material.  
+1. **Evidence mandatory** — Llama 3 is given *only* retrieved passages as source material.  
 2. **Unsupported claims suppressed** — The system prompt instructs the model to write `"No clear evidence found"` for any section where retrieval returns nothing relevant.  
 3. **Inspectable at claim level** — Every sentence in the generated memo carries the `Evidence` objects that supported it, enabling reviewers to verify each statement against the source document.
 
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-# Edit .env and add your Anthropic API key
+# Edit .env and add your Groq API key
 ```
 
 ### 3. Generate sample documents
@@ -191,8 +191,8 @@ All tuneable constants are in `config.py`. Override via environment variables or
 
 | Variable | Default | Description |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | *(required)* | Claude API key |
-| `CLAUDE_MODEL` | `claude-sonnet-4-5` | Model to use for generation |
+| `GROQ_API_KEY` | *(required)* | Groq API key |
+| `LLM_MODEL` | `llama-3.3-70b-versatile` | Model to use for generation |
 | `EMBEDDING_MODEL` | `all-MiniLM-L6-v2` | Sentence-transformer model |
 | `CHUNK_SIZE` | `400` | Tokens per chunk |
 | `CHUNK_OVERLAP` | `80` | Overlap tokens between chunks |

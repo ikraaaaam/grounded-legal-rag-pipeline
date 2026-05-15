@@ -310,7 +310,7 @@ RETRIEVAL_EXAMPLE = {
 
 MEMO_OUTPUT_SAMPLE = {
     "doc_ids": ["sample_contract"],
-    "model": "claude-sonnet-4-5",
+    "model": "llama-3.3-70b-versatile",
     "version": 1,
     "patterns_applied": [],
     "sections": [
